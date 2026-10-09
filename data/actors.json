@@ -1,0 +1,564 @@
+[
+  {
+    "id": "project_petit_landau",
+    "name": "Data Center de Petit-Landau",
+    "short_name": "Data Center Petit-Landau",
+    "type": "project",
+    "description": "Projet de centre de données Microsoft dédié à l'IA générative à Petit-Landau et Hombourg. Emprise de 36 à 40 hectares (plus de 50 terrains de football) sur des terres agricoles dont un tiers cultivées en bio. Investissement supérieur à 2 milliards d'euros pour une consommation électrique projetée entre 1 500 et 1 750 GWh par an, soit l'équivalent de 80 % de celle de l'ensemble des ménages du Haut-Rhin.",
+    "roles": [
+      {
+        "label": "Projet de centre de données Microsoft dédié à l'IA générative à Petit-Landau et Hombourg. Emprise de 36 à 40 hectares (plus de 50 terrains de football) sur des terres agricoles dont un tiers cultivées en bio. Investissement supérieur à 2 milliards d'euros pour une consommation électrique projetée entre 1 500 et 1 750 GWh par an, soit l'équivalent de 80 % de celle de l'ensemble des ménages du Haut-Rhin."
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "display_in_cards": false,
+    "source_network_group": "Projet central",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0002",
+    "name": "Michel",
+    "short_name": "Michel",
+    "type": "entity",
+    "description": "Habitant de Dietwiller",
+    "roles": [
+      {
+        "label": "Habitant de Dietwiller"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Opposants / critiques nommément cités",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0003",
+    "name": "Philippe",
+    "short_name": "Philippe",
+    "type": "entity",
+    "description": "Habitant de Hombourg",
+    "roles": [
+      {
+        "label": "Habitant de Hombourg"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Opposants / critiques nommément cités",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0004",
+    "name": "Cécile Germain-Ecuer",
+    "short_name": "C. Germain-Ecuer",
+    "type": "entity",
+    "description": "Conseillère régionale Grand Est",
+    "roles": [
+      {
+        "label": "Conseillère régionale Grand Est"
+      }
+    ],
+    "categories": [
+      "elus-opp",
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus / acteurs institutionnels",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0005",
+    "name": "Thierry Engasser",
+    "short_name": "T. Engasser",
+    "type": "entity",
+    "description": "Maire de Hombourg",
+    "roles": [
+      {
+        "label": "Maire de Hombourg"
+      }
+    ],
+    "categories": [
+      "elus-opp",
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus / acteurs institutionnels",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0006",
+    "name": "Léonie Hebert",
+    "short_name": "L. Hebert",
+    "type": "entity",
+    "description": "Cheffe de file Mulhouse en commun",
+    "roles": [
+      {
+        "label": "Cheffe de file Mulhouse en commun"
+      }
+    ],
+    "categories": [
+      "elus-opp",
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus / acteurs institutionnels",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0007",
+    "name": "Fabian Jordan",
+    "short_name": "F. Jordan",
+    "type": "entity",
+    "description": "Président de M2A",
+    "roles": [
+      {
+        "label": "Président de M2A"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus / acteurs institutionnels",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0008",
+    "name": "Laurent Riche",
+    "short_name": "L. Riche",
+    "type": "entity",
+    "description": "Vice-président de Mulhouse Alsace Agglomération",
+    "roles": [
+      {
+        "label": "Vice-président de Mulhouse Alsace Agglomération"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus / acteurs institutionnels",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0009",
+    "name": "Carole Talleux",
+    "short_name": "C. Talleux",
+    "type": "entity",
+    "description": "Maire de Petit-Landau",
+    "roles": [
+      {
+        "label": "Maire de Petit-Landau"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus / acteurs institutionnels",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0010",
+    "name": "Olivier Becht",
+    "short_name": "O. Becht",
+    "type": "entity",
+    "description": "Député du Haut-Rhin et ancien ministre",
+    "roles": [
+      {
+        "label": "Député du Haut-Rhin et ancien ministre"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus / acteurs institutionnels",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0011",
+    "name": "Collectif IA pas moyen",
+    "short_name": "IA pas moyen",
+    "type": "organization",
+    "description": "Collectif citoyen rassemblant quinze associations",
+    "roles": [
+      {
+        "label": "Collectif citoyen rassemblant quinze associations"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Noyau d’opposition local",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0012",
+    "name": "Alsace Nature",
+    "short_name": "Alsace Nature",
+    "type": "organization",
+    "description": "Association environnementale",
+    "roles": [
+      {
+        "label": "Association environnementale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Noyau d’opposition local",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0013",
+    "name": "Alter Alsace Énergies",
+    "short_name": "Alter Alsace Énergies",
+    "type": "organization",
+    "description": "Association environnementale",
+    "roles": [
+      {
+        "label": "Association environnementale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Noyau d’opposition local",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0014",
+    "name": "Confédération paysanne",
+    "short_name": "Conf. paysanne",
+    "type": "organization",
+    "description": "Syndicat agricole",
+    "roles": [
+      {
+        "label": "Syndicat agricole"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Organisations agricoles / foncières",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0015",
+    "name": "MRAe Grand Est",
+    "short_name": "MRAe",
+    "type": "organization",
+    "description": "Mission régionale d’autorité environnementale",
+    "roles": [
+      {
+        "label": "Mission régionale d’autorité environnementale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Élus / acteurs institutionnels",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0016",
+    "name": "Mouvement écologiste indépendant",
+    "short_name": "MEI",
+    "type": "organization",
+    "description": "Parti / Association",
+    "roles": [
+      {
+        "label": "Parti / Association"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Noyau d’opposition local",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0017",
+    "name": "Microsoft",
+    "short_name": "Microsoft",
+    "type": "organization",
+    "description": "Porteur du projet de data center IA",
+    "roles": [
+      {
+        "label": "Porteur du projet de data center IA"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Porteurs / institutions du projet",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0018",
+    "name": "RTE",
+    "short_name": "RTE",
+    "type": "organization",
+    "description": "Gestionnaire réseau électrique",
+    "roles": [
+      {
+        "label": "Gestionnaire réseau électrique"
+      }
+    ],
+    "categories": [
+      "porteurs",
+      "energie"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Porteurs / institutions du projet",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0019",
+    "name": "SMO",
+    "short_name": "SMO Ports Sud Alsace",
+    "type": "organization",
+    "description": "Syndicat mixte gestionnaire",
+    "roles": [
+      {
+        "label": "Syndicat mixte gestionnaire"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Porteurs / institutions du projet",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0020",
+    "name": "Brice Martin",
+    "short_name": "B. Martin (UHA)",
+    "type": "entity",
+    "description": "Géographe / UHA",
+    "roles": [
+      {
+        "label": "Géographe / UHA"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Opposants / critiques nommément cités",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0021",
+    "name": "Motoco",
+    "short_name": "Motoco",
+    "type": "organization",
+    "description": "Collectif d'artistes",
+    "roles": [
+      {
+        "label": "Collectif d'artistes"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Noyau d’opposition local",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0022",
+    "name": "Communes Favourables",
+    "short_name": "Chalampé, Niffer, Ottmarsheim",
+    "type": "entity",
+    "description": "Conseils municipaux ayant voté favorablement au projet.",
+    "roles": [
+      {
+        "label": "Conseils municipaux ayant voté favorablement au projet."
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": false,
+    "source_network_group": "Élus / acteurs institutionnels",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0023",
+    "name": "Commune Défavorable",
+    "short_name": "Bantzenheim",
+    "type": "entity",
+    "description": "Conseil municipal ayant voté majoritairement contre le projet.",
+    "roles": [
+      {
+        "label": "Conseil municipal ayant voté majoritairement contre le projet."
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": false,
+    "source_network_group": "Élus / acteurs institutionnels",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0024",
+    "name": "Thierry Stiegler",
+    "short_name": "T. Stiegler (Agora Calycé)",
+    "type": "organization",
+    "description": "Directeur général d'Agora Calycé",
+    "roles": [
+      {
+        "label": "Directeur général d'Agora Calycé"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": "Porte-parole / entreprises associées",
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0025",
+    "name": "Conseils de Chalampé, Niffer, Ottmarsheim",
+    "short_name": "Conseils de Chalampé, Niffer, Ottmarsheim",
+    "type": "entity",
+    "description": "Assemblées municipales",
+    "roles": [
+      {
+        "label": "Assemblées municipales"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "source_network_group": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0026",
+    "name": "Conseil municipal de Bantzenheim",
+    "short_name": "Conseil municipal de Bantzenheim",
+    "type": "entity",
+    "description": "Assemblée municipale",
+    "roles": [
+      {
+        "label": "Assemblée municipale"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "display_in_cards": true,
+    "source_network_group": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0027",
+    "name": "Cyrielle Chatelain",
+    "short_name": "Cyrielle Chatelain",
+    "type": "entity",
+    "description": "Présidente du groupe Écologiste à l’Assemblée",
+    "roles": [
+      {
+        "label": "Présidente du groupe Écologiste à l’Assemblée"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "display_in_cards": true,
+    "source_network_group": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0028",
+    "name": "Antoine Waechter",
+    "short_name": "Antoine Waechter",
+    "type": "entity",
+    "description": "Ancien député européen et représentant du MEI",
+    "roles": [
+      {
+        "label": "Ancien député européen et représentant du MEI"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "display_in_cards": true,
+    "source_network_group": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0029",
+    "name": "Corine de Bilbao",
+    "short_name": "Corine de Bilbao",
+    "type": "organization",
+    "description": "Présidente de Microsoft France",
+    "roles": [
+      {
+        "label": "Présidente de Microsoft France"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0030",
+    "name": "Gilbert Stimpflin",
+    "short_name": "Gilbert Stimpflin",
+    "type": "organization",
+    "description": "PDG d’Euro Rhein Ports",
+    "roles": [
+      {
+        "label": "PDG d’Euro Rhein Ports"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": null,
+    "updated_at": "2026-10-09"
+  },
+  {
+    "id": "actor_0031",
+    "name": "Euro Rhein Ports",
+    "short_name": "Euro Rhein Ports",
+    "type": "organization",
+    "description": "Société propriétaire du foncier des ports",
+    "roles": [
+      {
+        "label": "Société propriétaire du foncier des ports"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "source_network_group": null,
+    "updated_at": "2026-10-09"
+  }
+]
