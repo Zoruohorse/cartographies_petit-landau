@@ -61,7 +61,8 @@
     "status": "attributed",
     "certainty": "medium",
     "evidence_ids": [
-      "pl_proof_004"
+      "pl_proof_004",
+      "pl_proof_061"
     ],
     "valid_from": null,
     "valid_to": null,
@@ -129,7 +130,9 @@
     "status": "attributed",
     "certainty": "medium",
     "evidence_ids": [
-      "pl_proof_008"
+      "pl_proof_008",
+      "pl_proof_061",
+      "pl_proof_028"
     ],
     "valid_from": null,
     "valid_to": null,
@@ -180,7 +183,8 @@
     "status": "attributed",
     "certainty": "medium",
     "evidence_ids": [
-      "pl_proof_011"
+      "pl_proof_011",
+      "pl_proof_061"
     ],
     "valid_from": null,
     "valid_to": null,

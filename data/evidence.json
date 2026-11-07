@@ -231,12 +231,12 @@
     "id": "pl_proof_020",
     "type": "documented_summary",
     "text": "Bantzenheim rend un avis défavorable par onze voix contre, quatre pour et quatre abstentions, selon les avis municipaux rapportés par la presse.",
-    "source_id": "pl_src_r35",
+    "source_id": "pl_src_r38",
     "source_ids": [
-      "pl_src_r35"
+      "pl_src_r38"
     ],
-    "source_status": "qualified",
-    "verification": "article_text_from_supplied_workbook_editor_url",
+    "source_status": "qualified_url",
+    "verification": "full_text_supplied_in_workbook",
     "recorded_at": "2026-11-07"
   },
   {
@@ -351,24 +351,24 @@
     "id": "pl_proof_030",
     "type": "documented_summary",
     "text": "Le conseil de Niffer rend un avis favorable à l'unanimité, selon la presse.",
-    "source_id": "pl_src_r35",
+    "source_id": "pl_src_r38",
     "source_ids": [
-      "pl_src_r35"
+      "pl_src_r38"
     ],
-    "source_status": "qualified",
-    "verification": "article_text_from_supplied_workbook_editor_url",
+    "source_status": "qualified_url",
+    "verification": "full_text_supplied_in_workbook",
     "recorded_at": "2026-11-07"
   },
   {
     "id": "pl_proof_031",
     "type": "documented_summary",
     "text": "Le conseil d'Ottmarsheim rend un avis favorable par neuf voix pour, deux contre et huit abstentions.",
-    "source_id": "pl_src_r35",
+    "source_id": "pl_src_r38",
     "source_ids": [
-      "pl_src_r35"
+      "pl_src_r38"
     ],
-    "source_status": "qualified",
-    "verification": "article_text_from_supplied_workbook_editor_url",
+    "source_status": "qualified_url",
+    "verification": "full_text_supplied_in_workbook",
     "recorded_at": "2026-11-07"
   },
   {
@@ -675,12 +675,12 @@
     "id": "pl_proof_057",
     "type": "documented_summary",
     "text": "La CDPENAF rend un avis défavorable sur la modification du PLU selon la presse; cet avis technique ne vaut pas un recours judiciaire.",
-    "source_id": "pl_src_r29",
+    "source_id": "pl_src_r27",
     "source_ids": [
-      "pl_src_r29"
+      "pl_src_r27"
     ],
-    "source_status": "qualified",
-    "verification": "article_text_from_supplied_workbook_editor_url",
+    "source_status": "qualified_url",
+    "verification": "full_text_supplied_in_workbook",
     "recorded_at": "2026-11-07"
   },
   {

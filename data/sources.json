@@ -313,5 +313,23 @@
     "provenance": "source publique complémentaire",
     "verification": "public_page_verified",
     "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r27",
+    "title": "Commission enquête : avis favorable et avis défavorable CDPENAF sur le PLU",
+    "publisher": "Capital",
+    "url": "https://www.capital.fr/entreprises-marches/microsoft-va-bientot-installer-un-data-center-dedie-a-l-ia-en-alsace-la-prefecture-emet-un-avis-favorable-1529551",
+    "provenance": "Petit l.xlsx, ressource 27 : paragraphe sur avis défavorable de la CDPENAF",
+    "verification": "full_text_supplied_in_workbook",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r38",
+    "title": "Implantation d'un centre de données : l'enquête publique est finie, le débat reste ouvert",
+    "publisher": "DNA",
+    "url": "https://www.dna.fr/economie/2026/07/03/implantation-d-un-centre-de-donnees-l-enquete-publique-est-finie-le-debat-reste-ouvert",
+    "provenance": "Petit l.xlsx, ressource 38 : votes municipaux chiffrés",
+    "verification": "full_text_supplied_in_workbook",
+    "status": "qualified_url"
   }
 ]

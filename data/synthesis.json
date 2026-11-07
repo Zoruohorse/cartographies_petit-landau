@@ -256,7 +256,9 @@
     "pl_src_m2a",
     "pl_src_plu",
     "pl_src_alsacenature",
-    "pl_src_permis"
+    "pl_src_permis",
+    "pl_src_r27",
+    "pl_src_r38"
   ],
   "method": "54 entrées du classeur relues; acteurs, avis, votes et hypothèses séparés, chaque prise de position et relation citée.",
   "updated_at": "2026-11-07"

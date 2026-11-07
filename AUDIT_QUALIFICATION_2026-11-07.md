@@ -26,3 +26,9 @@ Les reprises de dépêches AFP (notamment 11, 12, 25 à 30), doublons DNA/L'Alsa
 - Les recours annoncés ne sont ni réputés déposés ni jugés. La valorisation de chaleur transfrontalière et le calendrier de travaux sont hypothétiques.
 - 36 hectares de périmètre n'impliquent pas 36 hectares totalement imperméabilisés; > 1 500 GWh/an est une consommation électrique projetée; ~5 000 m³/an un besoin d'eau potable annoncé.
 - Les textes d'articles payants proviennent du classeur; leurs URL donnent l'identité de source sans garantir une vérification intégrale de la page.
+
+## Contrôle supplémentaire des preuves (7 novembre 2026)
+- **CDPENAF Haut-Rhin** : l'avis défavorable à la mise en compatibilité du PLU est explicitement mentionné dans l'article de **Capital**, ressource **27**, et non dans la dépêche AFP de la ligne 29. Source corrigée.
+- **Bantzenheim / Niffer / Ottmarsheim** : les décomptes des votes figurent dans l'article DNA du **3 juillet**, ressource **38**. Les trois fiches renvoient désormais à cet article et non à celui consacré au seul conseil de Petit-Landau.
+- **Thierry Engasser, Carole Talleux** : les fiches citent séparément les déclarations de 2025 et l'article du 4 novembre 2026 annonçant les permis signés le 27 octobre.
+- **Alsace Nature** : le suivi de recours annoncés s'appuie aussi sur l'article du 4 novembre, sans déduire un dépôt ou une décision de justice.
