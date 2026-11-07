@@ -37,3 +37,6 @@ Ouvrir `http://localhost:8000/`. L'application charge des JSON via `fetch`, donc
 
 ## Actualisation 7 novembre 2026
 Quatre onglets, preuves URL et audit de 54 ressources. Voir [AUDIT_QUALIFICATION_2026-11-07.md](AUDIT_QUALIFICATION_2026-11-07.md).
+
+## Cinquième onglet : Évolution des acteurs (2026-11-07)
+Histogramme mensuel empilé, en mode **cumulé par défaut** et **nouveaux acteurs** sur option, par typologie et avec renvoi vers les premières mentions documentaires. La série comporte 60 jalons sourcés pour 60 fiches. Voir [METHODE_EVOLUTION_2026-11-07.md](METHODE_EVOLUTION_2026-11-07.md).

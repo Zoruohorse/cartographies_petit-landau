@@ -31,7 +31,8 @@
       "opposants"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "other"
   },
   {
     "id": "actor_0003",
@@ -48,7 +49,8 @@
       "opposants"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "other"
   },
   {
     "id": "actor_0004",
@@ -65,7 +67,8 @@
       "elus-opp"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0005",
@@ -82,7 +85,8 @@
       "elus-opp"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0006",
@@ -99,7 +103,8 @@
       "elus-opp"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0007",
@@ -116,7 +121,8 @@
       "elus-fav"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0008",
@@ -133,7 +139,8 @@
       "elus-fav"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0009",
@@ -150,7 +157,8 @@
       "elus-fav"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0010",
@@ -167,7 +175,8 @@
       "elus-fav"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0011",
@@ -184,7 +193,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "associations"
   },
   {
     "id": "actor_0012",
@@ -201,7 +211,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "associations"
   },
   {
     "id": "actor_0013",
@@ -218,7 +229,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "associations"
   },
   {
     "id": "actor_0014",
@@ -235,7 +247,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "associations"
   },
   {
     "id": "actor_0015",
@@ -252,7 +265,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "institutions"
   },
   {
     "id": "actor_0016",
@@ -269,7 +283,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "associations"
   },
   {
     "id": "actor_0017",
@@ -286,7 +301,8 @@
       "porteurs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "entreprises"
   },
   {
     "id": "actor_0018",
@@ -303,7 +319,8 @@
       "energie"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "institutions"
   },
   {
     "id": "actor_0020",
@@ -320,7 +337,8 @@
       "opposants"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "other"
   },
   {
     "id": "actor_0021",
@@ -337,7 +355,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "other"
   },
   {
     "id": "actor_0026",
@@ -354,7 +373,8 @@
       "elus-opp"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "collectivites"
   },
   {
     "id": "actor_0027",
@@ -371,7 +391,8 @@
       "elus-opp"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0028",
@@ -388,7 +409,8 @@
       "elus-opp"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0029",
@@ -405,7 +427,8 @@
       "porteurs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "entreprises"
   },
   {
     "id": "actor_0030",
@@ -422,7 +445,8 @@
       "porteurs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "entreprises"
   },
   {
     "id": "actor_0031",
@@ -439,7 +463,8 @@
       "porteurs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "entreprises"
   },
   {
     "id": "actor_0032",
@@ -456,7 +481,8 @@
       "porteurs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "entreprises"
   },
   {
     "id": "actor_0033",
@@ -473,7 +499,8 @@
       "elus-fav"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "collectivites"
   },
   {
     "id": "actor_0034",
@@ -490,7 +517,8 @@
       "elus-fav"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "collectivites"
   },
   {
     "id": "actor_0035",
@@ -507,7 +535,8 @@
       "elus-fav"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "collectivites"
   },
   {
     "id": "actor_0036",
@@ -524,7 +553,8 @@
       "elus-fav"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "collectivites"
   },
   {
     "id": "actor_0037",
@@ -541,7 +571,8 @@
       "elus-fav"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "collectivites"
   },
   {
     "id": "actor_0038",
@@ -558,7 +589,8 @@
       "elus-fav"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0039",
@@ -575,7 +607,8 @@
       "elus-fav"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0040",
@@ -592,7 +625,8 @@
       "elus-opp"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0041",
@@ -609,7 +643,8 @@
       "elus-opp"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0042",
@@ -626,7 +661,8 @@
       "elus-opp"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0043",
@@ -643,7 +679,8 @@
       "elus-fav"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0044",
@@ -660,7 +697,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "associations"
   },
   {
     "id": "actor_0045",
@@ -677,7 +715,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "associations"
   },
   {
     "id": "actor_0046",
@@ -694,7 +733,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "associations"
   },
   {
     "id": "actor_0047",
@@ -711,7 +751,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "associations"
   },
   {
     "id": "actor_0048",
@@ -728,7 +769,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "associations"
   },
   {
     "id": "actor_0049",
@@ -745,7 +787,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "associations"
   },
   {
     "id": "actor_0050",
@@ -762,7 +805,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "associations"
   },
   {
     "id": "actor_0051",
@@ -779,7 +823,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "associations"
   },
   {
     "id": "actor_0052",
@@ -796,7 +841,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "associations"
   },
   {
     "id": "actor_0053",
@@ -813,7 +859,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "associations"
   },
   {
     "id": "actor_0054",
@@ -830,7 +877,8 @@
       "opposants"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "other"
   },
   {
     "id": "actor_0055",
@@ -847,7 +895,8 @@
       "opposants"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "other"
   },
   {
     "id": "actor_0056",
@@ -864,7 +913,8 @@
       "opposants"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "other"
   },
   {
     "id": "actor_0057",
@@ -881,7 +931,8 @@
       "opposants"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "other"
   },
   {
     "id": "actor_0058",
@@ -898,7 +949,8 @@
       "opposants"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "other"
   },
   {
     "id": "actor_0059",
@@ -915,7 +967,8 @@
       "opposants"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "other"
   },
   {
     "id": "actor_0060",
@@ -932,7 +985,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "institutions"
   },
   {
     "id": "actor_0061",
@@ -949,7 +1003,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "institutions"
   },
   {
     "id": "actor_0062",
@@ -966,7 +1021,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "institutions"
   },
   {
     "id": "actor_0063",
@@ -983,7 +1039,8 @@
       "orgs"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "institutions"
   },
   {
     "id": "actor_0064",
@@ -1000,7 +1057,8 @@
       "context"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0065",
@@ -1017,7 +1075,8 @@
       "elus-opp"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   },
   {
     "id": "actor_0066",
@@ -1034,6 +1093,7 @@
       "elus-opp"
     ],
     "display_in_cards": true,
-    "updated_at": "2026-11-07"
+    "updated_at": "2026-11-07",
+    "timeline_category": "elus"
   }
 ]

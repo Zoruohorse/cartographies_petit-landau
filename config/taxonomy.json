@@ -119,5 +119,54 @@
       "label": "Réunion accueillie par",
       "directed": true
     }
+  },
+  "timeline": {
+    "grouping": "month",
+    "default_mode": "cumulative",
+    "event_type": "first_documented_mention",
+    "category_priority": [
+      "elus",
+      "associations",
+      "entreprises",
+      "institutions",
+      "collectivites",
+      "other"
+    ],
+    "categories": [
+      {
+        "id": "elus",
+        "label": "Élus et responsables politiques",
+        "color": "#d66b9c"
+      },
+      {
+        "id": "associations",
+        "label": "Associations et collectifs",
+        "color": "#ef9e3c"
+      },
+      {
+        "id": "entreprises",
+        "label": "Entreprises et porteurs",
+        "color": "#17a38f"
+      },
+      {
+        "id": "institutions",
+        "label": "Institutions et autorités techniques",
+        "color": "#8b6bc8"
+      },
+      {
+        "id": "collectivites",
+        "label": "Collectivités et conseils",
+        "color": "#4388da"
+      },
+      {
+        "id": "other",
+        "label": "Habitants, experts et autres",
+        "color": "#64748b"
+      }
+    ],
+    "fallback_category": "other",
+    "excluded_actor_categories": [
+      "project"
+    ]
   }
 }

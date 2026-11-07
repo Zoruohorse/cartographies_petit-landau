@@ -1,0 +1,905 @@
+[
+  {
+    "id": "timeline_first_actor_0005",
+    "actor_id": "actor_0005",
+    "event_type": "first_documented_mention",
+    "date": "2025-07-05",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r55"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Critique de Thierry Engasser explicitement rapportée dès le 5 juillet 2025",
+    "summary": "Première position ou participation documentée : Maire de Hombourg, il critique en 2025 le manque d'ancrage local. Il signe le permis du 27 octobre 2026 dans sa compétence administrative; cela ne prouve pas un changement d'avis.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0009",
+    "actor_id": "actor_0009",
+    "event_type": "first_documented_mention",
+    "date": "2025-07-05",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r55"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Soutien de Carole Talleux rapporté dans l'article du 5 juillet 2025",
+    "summary": "Première position ou participation documentée : Maire de Petit-Landau, Carole Talleux défend la diversification locale; le conseil vote favorablement et elle signe en octobre un permis.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0017",
+    "actor_id": "actor_0017",
+    "event_type": "first_documented_mention",
+    "date": "2025-07-05",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r55"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Présence de Microsoft sur le projet de Petit-Landau attestée lors de la réunion publique de juin 2025",
+    "summary": "Première position ou participation documentée : Microsoft annonce un investissement supérieur à deux milliards d'euros en Alsace et porte le futur centre de données cloud/IA.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0010",
+    "actor_id": "actor_0010",
+    "event_type": "first_documented_mention",
+    "date": "2026-02-07",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r54"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r54 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Olivier Becht décrit son rôle d'intermédiaire entre Microsoft et des acteurs territoriaux français pour trouver un site après des recherches difficiles.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0015",
+    "actor_id": "actor_0015",
+    "event_type": "first_documented_mention",
+    "date": "2026-03-19",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_mrae"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Avis daté du 19 mars 2026 de la MRAe Grand Est",
+    "summary": "Première mention du rôle documenté : La MRAe rend en mars un avis critique sur l'insuffisance d'évaluation des impacts; il s'agit d'un avis réglementaire, non d'une opinion partisane.",
+    "role_only": true
+  },
+  {
+    "id": "timeline_first_actor_0018",
+    "actor_id": "actor_0018",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-01",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_enquete",
+      "pl_src_r51"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "RTE identifié comme maître d'ouvrage du raccordement à l'ouverture de l'enquête publique du 1er juin",
+    "summary": "Première mention du rôle documenté : RTE est maître d'ouvrage des deux liaisons électriques 225 kV; ce rôle ne constitue pas une prise de position politique.",
+    "role_only": true
+  },
+  {
+    "id": "timeline_first_actor_0032",
+    "actor_id": "actor_0032",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-01",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_enquete"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Société pétitionnaire identifiée dans l'enquête publique ouverte le 1er juin",
+    "summary": "Première position ou participation documentée : La société Microsoft 1985 France Sàrl est pétitionnaire de l'autorisation environnementale et des permis de construire de Petit-Landau et Hombourg.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0003",
+    "actor_id": "actor_0003",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-03",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r51"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Intervention à la conférence du 3 juin, rapportée le 7 juin",
+    "summary": "Première position ou participation documentée : Philippe demande publiquement comment la population peut agir; l'article ne lui attribue pas un rejet personnel explicite.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0004",
+    "actor_id": "actor_0004",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-03",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r51"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Déclaration de Cécile Germain-Ecuer à la conférence de presse du 3 juin, rapportée le 7 juin",
+    "summary": "Première position ou participation documentée : Conseillère régionale et membre d'IA pas moyen, elle critique le projet et annonce la préparation de recours après l'arrêté préfectoral; leur dépôt n'est pas établi.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0006",
+    "actor_id": "actor_0006",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-03",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r51"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Participation documentée à la conférence de presse du 3 juin, sans opinion individuelle imputée",
+    "summary": "Première mention du rôle documenté : Léonie Hebert participe à la conférence de presse de juin; cette présence ne démontre pas une position nominative autonome.",
+    "role_only": true
+  },
+  {
+    "id": "timeline_first_actor_0011",
+    "actor_id": "actor_0011",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-03",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r51"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Annonce de la création du collectif lors de la conférence du 3 juin",
+    "summary": "Première position ou participation documentée : Le collectif organise les mobilisations des 22 juin, 28 août, 19 septembre et 12 octobre contre l'implantation de Microsoft et demande davantage de débat.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0012",
+    "actor_id": "actor_0012",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-03",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r51",
+      "pl_src_alsacenature"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Opposition exprimée par Alsace Nature lors de la conférence du 3 juin",
+    "summary": "Première position ou participation documentée : Alsace Nature oppose publiquement au projet et demande moratoire et transparence; un recours est annoncé, sans jugement démontré.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0013",
+    "actor_id": "actor_0013",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-03",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r51"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Opposition exprimée par Alter Alsace Énergies à la conférence du 3 juin",
+    "summary": "Première position ou participation documentée : Alter Alsace Énergies critique les besoins électriques et la promesse de souveraineté numérique du projet et appelle à un moratoire.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0016",
+    "actor_id": "actor_0016",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-03",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r51"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Représentation du mouvement à la conférence de presse du 3 juin",
+    "summary": "Première mention du rôle documenté : Le mouvement est représenté par Antoine Waechter à une conférence sur le dossier; aucune déclaration institutionnelle propre n'est rapportée.",
+    "role_only": true
+  },
+  {
+    "id": "timeline_first_actor_0028",
+    "actor_id": "actor_0028",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-03",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r51"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Intervention d'Antoine Waechter lors de la conférence du 3 juin",
+    "summary": "Première mention du rôle documenté : Antoine Waechter est présent à la conférence de presse environnementale, sans citation personnelle attribuée dans l'article.",
+    "role_only": true
+  },
+  {
+    "id": "timeline_first_actor_0044",
+    "actor_id": "actor_0044",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-03",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r51"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Déclaration de Michèle Grosjean au nom d'Alsace Nature le 3 juin",
+    "summary": "Première position ou participation documentée : Présidente d'Alsace Nature, Michèle Grosjean appelle à s'opposer au projet, invoquant l'énergie, le foncier, le bruit et la chaleur potentiels.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0045",
+    "actor_id": "actor_0045",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-03",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r51"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Intervention d'Annie de Larochelambert à la conférence du 3 juin",
+    "summary": "Première position ou participation documentée : Présidente d'Alter Alsace Énergies, Annie de Larochelambert critique la dépendance envers le groupe américain et ses besoins électriques.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0064",
+    "actor_id": "actor_0064",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-18",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r47"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r47 ; ne démontre pas la première implication réelle.",
+    "summary": "Première mention du rôle documenté : Le maire de Bad Bellingen évoque une passerelle transfrontalière pouvant supporter une future conduite de chaleur Microsoft; aucun financement ou contrat n'est confirmé.",
+    "role_only": true
+  },
+  {
+    "id": "timeline_first_actor_0014",
+    "actor_id": "actor_0014",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-19",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r40"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r40 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : La Confédération paysanne d'Alsace figure parmi les organisations appelant explicitement à manifester contre l'implantation sur des terres agricoles.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0047",
+    "actor_id": "actor_0047",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-19",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r40"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r40 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Stop Fessenheim figure parmi les organisations appelant à la mobilisation contre Petit-Landau.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0049",
+    "actor_id": "actor_0049",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-19",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r40"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r40 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Extinction Rebellion Alsace figure parmi les organisations citées dans l'appel à manifester contre Microsoft.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0050",
+    "actor_id": "actor_0050",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-19",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r40"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r40 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Les Soulèvements de la Terre sont mentionnés parmi les organisations rejoignant la mobilisation locale contre le site.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0051",
+    "actor_id": "actor_0051",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-19",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r40"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r40 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Eau en danger est nommé parmi les collectifs participant à l'appel de mobilisation contre le projet.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0002",
+    "actor_id": "actor_0002",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-22",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r44"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r44 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Michel critique l'utilisation de terres agricoles, l'énergie prévue et la procédure lors de la manifestation du 22 juin.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0007",
+    "actor_id": "actor_0007",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-22",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r42"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r42 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Président de M2A, Fabian Jordan défend l'instruction du projet, dont l'agglomération a émis un avis favorable en juin puis approuvé la déclaration en octobre.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0008",
+    "actor_id": "actor_0008",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-22",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r45"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r45 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Laurent Riche soutient le projet tout en demandant des garanties sur eau, énergie, nuisances et retombées économiques.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0033",
+    "actor_id": "actor_0033",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-22",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r42"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Avis favorable de la collectivité M2A lors de la séance du 22 juin",
+    "summary": "Première position ou participation documentée : M2A rend un avis favorable en juin puis vote la déclaration d'intérêt général et la mise en compatibilité du PLU le 12 octobre 2026.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0038",
+    "actor_id": "actor_0038",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-22",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r42"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Intervention favorable lors de la séance M2A du 22 juin 2026",
+    "summary": "Première position ou participation documentée : Le maire de Chalampé défend l'intérêt potentiel de valoriser la chaleur pour les industriels rhénans; sa faisabilité n'est pas démontrée.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0040",
+    "actor_id": "actor_0040",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-22",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r42"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Prise de parole critique au conseil M2A du 22 juin, rapportée dans la presse",
+    "summary": "Première position ou participation documentée : Thiébaut Weber vote contre la déclaration de projet de M2A du 12 octobre et critique la faiblesse du débat énergétique et de souveraineté.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0046",
+    "actor_id": "actor_0046",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-22",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r45"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r45 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Joseph Baumann, d'Alsace Nature, conteste la consommation de terres, la dissipation de chaleur et les lacunes du débat public.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0048",
+    "actor_id": "actor_0048",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-22",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r44"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r44 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Des représentants d'Attac 68 sont cités dans la manifestation du 22 juin contre Microsoft, sans preuve de recours propre.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0052",
+    "actor_id": "actor_0052",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-22",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r44"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r44 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Des représentants de Climat 3F participent à la manifestation du 22 juin, sans recours propre identifié dans la source.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0053",
+    "actor_id": "actor_0053",
+    "event_type": "first_documented_mention",
+    "date": "2026-06-22",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r44"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r44 ; ne démontre pas la première implication réelle.",
+    "summary": "Première mention du rôle documenté : Les Amis des Sheds sont représentés parmi les manifestants en juin; aucune prise de position officielle autonome de la structure n'est reproduite.",
+    "role_only": true
+  },
+  {
+    "id": "timeline_first_actor_0021",
+    "actor_id": "actor_0021",
+    "event_type": "first_documented_mention",
+    "date": "2026-07-01",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r39"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r39 ; ne démontre pas la première implication réelle.",
+    "summary": "Première mention du rôle documenté : Motoco accueille une soirée d'IA pas moyen le 30 juin; l'accueil du débat ne démontre pas l'opposition unanime de tous les artistes du lieu.",
+    "role_only": true
+  },
+  {
+    "id": "timeline_first_actor_0026",
+    "actor_id": "actor_0026",
+    "event_type": "first_documented_mention",
+    "date": "2026-07-03",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r38"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r38 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Bantzenheim rend un avis défavorable par onze voix contre, quatre pour et quatre abstentions, selon les avis municipaux rapportés par la presse.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0035",
+    "actor_id": "actor_0035",
+    "event_type": "first_documented_mention",
+    "date": "2026-07-03",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r38",
+      "pl_src_r34"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Avis favorable déjà signalé dans l'article du 3 juillet sur les conseils voisins",
+    "summary": "Première position ou participation documentée : Chalampé émet un avis favorable le 2 juillet et examine une régie locale de chaleur.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0036",
+    "actor_id": "actor_0036",
+    "event_type": "first_documented_mention",
+    "date": "2026-07-03",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r38"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Avis favorable de Niffer attesté dans l'article du 3 juillet, date exacte du vote non présumée",
+    "summary": "Première position ou participation documentée : Le conseil de Niffer rend un avis favorable à l'unanimité, selon la presse.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0037",
+    "actor_id": "actor_0037",
+    "event_type": "first_documented_mention",
+    "date": "2026-07-03",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r38"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Avis favorable d'Ottmarsheim attesté dans l'article du 3 juillet, date exacte du vote non présumée",
+    "summary": "Première position ou participation documentée : Le conseil d'Ottmarsheim rend un avis favorable par neuf voix pour, deux contre et huit abstentions.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0020",
+    "actor_id": "actor_0020",
+    "event_type": "first_documented_mention",
+    "date": "2026-07-05",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r36"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r36 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Le géographe Brice Martin met en cause la portée démocratique de l'enquête publique regroupant plusieurs procédures, sans demander formellement l'abandon du data center.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0034",
+    "actor_id": "actor_0034",
+    "event_type": "first_documented_mention",
+    "date": "2026-07-07",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r35"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Vote favorable du conseil du 7 juillet 2026, relaté le 8 juillet",
+    "summary": "Première position ou participation documentée : Le conseil municipal de Petit-Landau vote le 7 juillet par quatorze voix pour et une abstention.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0061",
+    "actor_id": "actor_0061",
+    "event_type": "first_documented_mention",
+    "date": "2026-08-24",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r32"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Avis du commissaire enquêteur officiellement publié le 24 août",
+    "summary": "Première mention du rôle documenté : Pierre Herzog, commissaire enquêteur, rend trois avis favorables le 24 août avec réserve acoustique et recommandations; cet avis réglementaire n'est pas militant.",
+    "role_only": true
+  },
+  {
+    "id": "timeline_first_actor_0029",
+    "actor_id": "actor_0029",
+    "event_type": "first_documented_mention",
+    "date": "2026-08-25",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r31"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r31 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Ancienne présidente de Microsoft France, Corine de Bilbao contacte Olivier Becht dans la recherche d'un terrain français pour le programme.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0030",
+    "actor_id": "actor_0030",
+    "event_type": "first_documented_mention",
+    "date": "2026-08-25",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r31"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r31 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Gilbert Stimpflin propose le terrain de Petit-Landau au nom d'Euro Rhein Ports et défend les retombées du campus pour l'attractivité locale.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0031",
+    "actor_id": "actor_0031",
+    "event_type": "first_documented_mention",
+    "date": "2026-08-25",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r31"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r31 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Euro Rhein Ports est cité comme propriétaire ou acteur foncier de l'emprise retenue par Microsoft pour le campus.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0063",
+    "actor_id": "actor_0063",
+    "event_type": "first_documented_mention",
+    "date": "2026-08-25",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r27"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r27 ; ne démontre pas la première implication réelle.",
+    "summary": "Première mention du rôle documenté : La CDPENAF rend un avis défavorable sur la modification du PLU selon la presse; cet avis technique ne vaut pas un recours judiciaire.",
+    "role_only": true
+  },
+  {
+    "id": "timeline_first_actor_0027",
+    "actor_id": "actor_0027",
+    "event_type": "first_documented_mention",
+    "date": "2026-09-23",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r20"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r20 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : La députée écologiste est présente à un événement du collectif et engagée dans le débat politique, sans recours personnel ou vote sur l'autorisation établi dans cet article.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0062",
+    "actor_id": "actor_0062",
+    "event_type": "first_documented_mention",
+    "date": "2026-10-06",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r09"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Avis CODERST du 6 octobre mentionné dans l'article du 13 octobre",
+    "summary": "Première mention du rôle documenté : Le CODERST émet un avis favorable le 6 octobre lors de l'instruction environnementale; il s'agit d'un avis consultatif.",
+    "role_only": true
+  },
+  {
+    "id": "timeline_first_actor_0039",
+    "actor_id": "actor_0039",
+    "event_type": "first_documented_mention",
+    "date": "2026-10-12",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r07"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Présentation de la délibération M2A le 12 octobre",
+    "summary": "Première position ou participation documentée : Vice-président de M2A chargé de l'urbanisme, Frédéric Guthmann défend la procédure de déclaration de projet du 12 octobre.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0041",
+    "actor_id": "actor_0041",
+    "event_type": "first_documented_mention",
+    "date": "2026-10-12",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r07"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Vote contre la déclaration M2A lors de la séance du 12 octobre",
+    "summary": "Première position ou participation documentée : Patricia Legouge vote contre la déclaration M2A du 12 octobre, interrogeant les enjeux d'IA au-delà de la seule urbanisation.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0042",
+    "actor_id": "actor_0042",
+    "event_type": "first_documented_mention",
+    "date": "2026-10-12",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r07"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Vote contre la déclaration M2A lors de la séance du 12 octobre",
+    "summary": "Première position ou participation documentée : Annouar Sassi vote contre la déclaration M2A et demande davantage de temps de réflexion sur le projet.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0043",
+    "actor_id": "actor_0043",
+    "event_type": "first_documented_mention",
+    "date": "2026-10-12",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r07"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Vote favorable avec réserves lors de la séance du 12 octobre",
+    "summary": "Première position ou participation documentée : Pierre Salze se prononce finalement favorablement le 12 octobre tout en soulevant des réserves sur le bilan NOx des groupes de secours.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0056",
+    "actor_id": "actor_0056",
+    "event_type": "first_documented_mention",
+    "date": "2026-10-12",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r13"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r13 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Danièle, manifestante de Baldersheim citée sous son prénom, critique le défaut de prise en compte des avis citoyens.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0057",
+    "actor_id": "actor_0057",
+    "event_type": "first_documented_mention",
+    "date": "2026-10-12",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r13"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r13 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Nicolas, manifestant de Rixheim cité sous son prénom, juge l'enquête publique insuffisante et non prise en compte.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0058",
+    "actor_id": "actor_0058",
+    "event_type": "first_documented_mention",
+    "date": "2026-10-12",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r13"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r13 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Kevin, manifestant d'Ottmarsheim cité sous son prénom, redoute les effets écologiques du centre.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0059",
+    "actor_id": "actor_0059",
+    "event_type": "first_documented_mention",
+    "date": "2026-10-12",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r13"
+    ],
+    "confidence": "medium",
+    "status": "confirmed",
+    "date_basis": "Première mention retenue à la date de la publication ou de collecte de la source pl_src_r13 ; ne démontre pas la première implication réelle.",
+    "summary": "Première position ou participation documentée : Cyril, manifestant de Mulhouse cité sous son prénom, critique l'ampleur de l'électricité annuelle envisagée.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0065",
+    "actor_id": "actor_0065",
+    "event_type": "first_documented_mention",
+    "date": "2026-10-12",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r07"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Vote des élus du groupe Mulhouse en commun rapporté pour le 12 octobre",
+    "summary": "Première position ou participation documentée : Des élus Mulhouse en commun sont recensés parmi les voix contre la déclaration de projet du 12 octobre.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0066",
+    "actor_id": "actor_0066",
+    "event_type": "first_documented_mention",
+    "date": "2026-10-12",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r07"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Vote des élus Nous sommes Mulhouse rapporté pour le 12 octobre",
+    "summary": "Première position ou participation documentée : Trois élus Nous sommes Mulhouse votent contre la déclaration de projet du 12 octobre, selon la presse.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0060",
+    "actor_id": "actor_0060",
+    "event_type": "first_documented_mention",
+    "date": "2026-10-15",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r06"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Autorisation environnementale préfectorale délivrée le 15 octobre, reportage du 16 octobre",
+    "summary": "Première mention du rôle documenté : Emmanuel Aubry est le préfet qui signe l'arrêté d'autorisation environnementale du 15 octobre; un acte de sa compétence n'établit pas une adhésion politique.",
+    "role_only": true
+  },
+  {
+    "id": "timeline_first_actor_0054",
+    "actor_id": "actor_0054",
+    "event_type": "first_documented_mention",
+    "date": "2026-11-01",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r03"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Diffusion de l'émission RTS Mise au point du 1er novembre 2026, confirmée par la fiche de l'épisode",
+    "summary": "Première position ou participation documentée : Thomas Giroux, habitant de Petit-Landau interrogé par la RTS, affiche son opposition et explique participer à une pétition, inquiet des nuisances et des terres agricoles.",
+    "role_only": false
+  },
+  {
+    "id": "timeline_first_actor_0055",
+    "actor_id": "actor_0055",
+    "event_type": "first_documented_mention",
+    "date": "2026-11-01",
+    "date_precision": "day",
+    "source_ids": [
+      "pl_src_r03"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Diffusion de l'émission RTS Mise au point du 1er novembre 2026, confirmée par la fiche de l'épisode",
+    "summary": "Première position ou participation documentée : Mathieu Herrmann, agriculteur biologique sur les parcelles concernées, exprime une inquiétude sur la chaleur et l'agriculture, sans rejeter par principe l'infrastructure numérique.",
+    "role_only": false
+  }
+]
