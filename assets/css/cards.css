@@ -12,3 +12,5 @@
 .griefCard h2,.listCard h2{font-size:1.15rem;margin:0 0 12px}
 .griefCard p{margin:0}.listCard{margin-bottom:20px}.listCard li{margin-bottom:12px}
 @media(max-width:700px){.griefGrid{grid-template-columns:1fr}.tabs{gap:6px}.tab{flex:1 1 100%;text-align:left}}
+
+.source-citations{margin-top:14px;padding-top:11px;border-top:1px solid #e2e8f0;font-size:.78rem;line-height:1.7;color:#475569}.source-citations a{color:#2563eb}#sources li small{display:block;margin-top:2px;font-size:.76rem}.chrono-date{color:#1d4ed8;font-size:.78rem;font-weight:800}.chrono-forecast .chrono-date{color:#b45309}#tab-timeline .griefCard p{margin:10px 0;line-height:1.55}

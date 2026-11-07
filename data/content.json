@@ -1,0 +1,300 @@
+{
+  "project_status": "Au 7 novembre 2026 : autorisation environnementale le 15 octobre, permis de construire le 27 octobre. Recours annoncés, non présumés déposés ou jugés. Pas de mise en service constatée.",
+  "project_summary": "Campus Microsoft d'environ 36 ha à Petit-Landau/Hombourg, avec raccordement RTE; plus de 2 Md€ annoncés, forte contestation environnementale.",
+  "milestones": [
+    {
+      "date": "2024-05-13",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Choose France : annonce Microsoft",
+      "details": "Investissement annoncé en France de 4 Md€, dont plus de 2 Md€ envisagés pour le Sud Alsace.",
+      "evidence_ids": [
+        "pl_proof_016",
+        "pl_proof_009"
+      ]
+    },
+    {
+      "date": "2024-12-09",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Ouverture de la procédure d'urbanisme M2A",
+      "details": "M2A décide le lancement de la mise en compatibilité du PLU de Petit-Landau.",
+      "evidence_ids": [
+        "pl_proof_074"
+      ]
+    },
+    {
+      "date": "2025-07-05",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Présentation publique",
+      "details": "Déclarations favorables de la maire de Petit-Landau et critiques du maire de Hombourg.",
+      "evidence_ids": [
+        "pl_proof_008",
+        "pl_proof_004"
+      ]
+    },
+    {
+      "date": "2026-03-19",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Avis critique de la MRAe",
+      "details": "Avis consultatif demandant de compléter les analyses d'impacts et de risques.",
+      "evidence_ids": [
+        "pl_proof_072"
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Ouverture de l'enquête unique",
+      "details": "Ouverture du dossier Microsoft, RTE, permis et urbanisme jusqu'au 3 juillet.",
+      "evidence_ids": [
+        "pl_proof_075"
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Manifestation et avis M2A",
+      "details": "Environ 90 personnes manifestent selon la presse; M2A rend un avis favorable au dossier environnemental.",
+      "evidence_ids": [
+        "pl_proof_010",
+        "pl_proof_076"
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Soirée d'opposition à Motoco",
+      "details": "Réunion publique animée par IA pas moyen, plus de 200 personnes selon L'Alsace.",
+      "evidence_ids": [
+        "pl_proof_019"
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Fin de l'enquête publique",
+      "details": "Clôture de la consultation de 33 jours, contestée dans sa durée.",
+      "evidence_ids": [
+        "pl_proof_018"
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Vote du conseil de Petit-Landau",
+      "details": "Quatorze élus favorables, une abstention.",
+      "evidence_ids": [
+        "pl_proof_028"
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Triple avis du commissaire enquêteur",
+      "details": "Trois avis favorables avec réserve acoustique, malgré de nombreuses contributions défavorables.",
+      "evidence_ids": [
+        "pl_proof_064"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Mobilisation devant la sous-préfecture",
+      "details": "Manifestants contre le centre Microsoft.",
+      "evidence_ids": [
+        "pl_proof_003",
+        "pl_proof_077"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Mobilisation à Kingersheim",
+      "details": "Le collectif IA pas moyen organise une journée de débat et d'opposition.",
+      "evidence_ids": [
+        "pl_proof_078"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Avis favorable du CODERST",
+      "details": "Avis consultatif sur la demande environnementale.",
+      "evidence_ids": [
+        "pl_proof_056"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Déclaration de projet approuvée par M2A",
+      "details": "Mise en compatibilité du PLU et reconnaissance de l'intérêt général du projet.",
+      "evidence_ids": [
+        "pl_proof_063",
+        "pl_proof_073"
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Arrêté environnemental signé",
+      "details": "Autorisation avec prescriptions environnementales.",
+      "evidence_ids": [
+        "pl_proof_062"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Deux permis de construire accordés",
+      "details": "Signés par les maires de Petit-Landau et Hombourg; annonce publiée le 4 novembre.",
+      "evidence_ids": [
+        "pl_proof_061"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Passerelle franco-allemande débattue",
+      "details": "Comité consultatif envisagé; échange de chaleur potentiel à l'étude.",
+      "evidence_ids": [
+        "pl_proof_067"
+      ]
+    },
+    {
+      "date": "2027-10-01",
+      "period_precision": "day",
+      "status": "forecast",
+      "title": "Étude de valorisation thermique attendue",
+      "details": "Échéance de l'étude de récupération de chaleur rappelée par M2A.",
+      "evidence_ids": [
+        "pl_proof_068"
+      ]
+    },
+    {
+      "date": "2029",
+      "period_precision": "year",
+      "status": "forecast",
+      "title": "Mise en service initiale envisagée",
+      "details": "Perspective de presse susceptible de changer; dates de chantier divergentes.",
+      "evidence_ids": [
+        "pl_proof_071"
+      ]
+    }
+  ],
+  "fact_sheet": [
+    {
+      "label": "Emprise du projet",
+      "value": "≈ 36 hectares",
+      "qualifier": "Terrain agricole, dont une partie bio; la fraction imperméabilisée est différente.",
+      "evidence_ids": [
+        "pl_proof_070"
+      ]
+    },
+    {
+      "label": "Opérateur du dossier",
+      "value": "Microsoft 1985 France Sàrl",
+      "qualifier": "Pétitionnaire de l'autorisation et des permis; RTE gère le raccordement.",
+      "evidence_ids": [
+        "pl_proof_026",
+        "pl_proof_017"
+      ]
+    },
+    {
+      "label": "Investissement annoncé",
+      "value": "> 2 Md€",
+      "qualifier": "Annonce d'investissement, pas dépense déjà constatée.",
+      "evidence_ids": [
+        "pl_proof_009"
+      ]
+    },
+    {
+      "label": "Électricité annuelle",
+      "value": "> 1 500 GWh/an",
+      "qualifier": "Prévision MRAe; certaines sources évoquent jusqu'à 1 750 GWh/an selon scénarios.",
+      "evidence_ids": [
+        "pl_proof_065"
+      ]
+    },
+    {
+      "label": "Raccordement",
+      "value": "2 lignes 225 kV par RTE",
+      "qualifier": "À distinguer de la consommation d'électricité mesurée.",
+      "evidence_ids": [
+        "pl_proof_017"
+      ]
+    },
+    {
+      "label": "Secours électrique",
+      "value": "111 groupes électrogènes prévus",
+      "qualifier": "Équipements soumis aux prescriptions d'émissions et contrôles.",
+      "evidence_ids": [
+        "pl_proof_065"
+      ]
+    },
+    {
+      "label": "Eau du réseau potable",
+      "value": "≈ 5 000 m³/an envisagés",
+      "qualifier": "Pas de prise directe dans le Rhin ni la nappe selon le rapport.",
+      "evidence_ids": [
+        "pl_proof_066"
+      ]
+    },
+    {
+      "label": "Emplois projetés",
+      "value": "197–301 ETP",
+      "qualifier": "Estimations futures; environ 200 emplois directs selon Microsoft.",
+      "evidence_ids": [
+        "pl_proof_069"
+      ]
+    },
+    {
+      "label": "Avis du commissaire",
+      "value": "3 favorables, 24 août",
+      "qualifier": "Avec réserve sur les nuisances acoustiques.",
+      "evidence_ids": [
+        "pl_proof_064"
+      ]
+    },
+    {
+      "label": "Autorisation environnementale",
+      "value": "15 octobre 2026",
+      "qualifier": "Arrêté préfectoral, conditions applicables.",
+      "evidence_ids": [
+        "pl_proof_062"
+      ]
+    },
+    {
+      "label": "Permis de construire",
+      "value": "27 octobre 2026",
+      "qualifier": "Accordés pour les deux communes; mise en service non démontrée.",
+      "evidence_ids": [
+        "pl_proof_061"
+      ]
+    },
+    {
+      "label": "Récupération de chaleur",
+      "value": "Projet d'étude",
+      "qualifier": "Aucun contrat d'acheminement transfrontalier opérationnel.",
+      "evidence_ids": [
+        "pl_proof_067"
+      ]
+    }
+  ]
+}

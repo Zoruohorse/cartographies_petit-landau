@@ -1,9 +1,9 @@
 import{loadRepository,esc,norm,actorClaim,evidenceHtml}from'./data-loader.js';
-const d=await loadRepository(),ns='http://www.w3.org/2000/svg';
+const svg=document.getElementById('svg'),filters=document.getElementById('filters'),search=document.getElementById('search'),count=document.getElementById('count'),center=document.getElementById('center'),panel=document.getElementById('panel'),details=document.getElementById('details'),tip=document.getElementById('tip');const d=await loadRepository(),ns='http://www.w3.org/2000/svg';
 let w=innerWidth,h=innerHeight,zoom=1,px=0,py=0,panning=false,startX=0,startY=0,selected=null;
 svg.setAttribute('viewBox',`0 0 ${w} ${h}`);
 const g=document.createElementNS(ns,'g'),lg=document.createElementNS(ns,'g'),ng=document.createElementNS(ns,'g');g.append(lg,ng);svg.append(g);
-const active=new Set(Object.keys(d.taxonomy.categories).filter(x=>x!=='all'));
+const active=new Set([...new Set(d.actors.map(a=>a.categories[0]))].filter(x=>x!=='all'&&d.taxonomy.categories[x]));
 const degree=id=>d.relations.filter(r=>r.source_id===id||r.target_id===id).length;
 const nodes=d.actors.map(a=>({...a,size:a.id==='project_petit_landau'?48:Math.min(28,18+degree(a.id)*1.15)}));
 const byId=new Map(nodes.map(n=>[n.id,n]));

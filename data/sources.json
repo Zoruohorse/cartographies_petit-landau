@@ -1,65 +1,317 @@
 [
   {
-    "id": "source_0001",
-    "title": "Rapport Petit-Landau 24-06-2026.docx : Recueil d'articles de presse (DNA, France 3, Rue89 Strasbourg, ChannelNews...) et communiqués locaux couvrant l'enquête publique.",
-    "publisher": "Rapport Petit-Landau 24-06-2026.docx",
-    "url": null,
-    "source_type": "corpus_secondary_reference",
-    "published_at": null,
-    "status": "url_to_add"
+    "id": "pl_src_r02",
+    "publisher": "DNA",
+    "title": "Conseil Petit-Landau, passerelle et chaleur",
+    "url": "https://www.dna.fr/politique/2026/11/04/le-projet-de-centre-de-donnees-en-toile-fond-du-conseil-municipal",
+    "provenance": "Petit l.xlsx, ressource 2",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
   },
   {
-    "id": "source_0002",
-    "title": "Dimanche en Politique (France 3 Alsace) : Émission de débat confrontant élus et experts sur l'opportunité économique vs le risque environnemental.",
-    "publisher": "Dimanche en Politique (France 3 Alsace)",
-    "url": null,
-    "source_type": "corpus_secondary_reference",
-    "published_at": null,
-    "status": "url_to_add"
+    "id": "pl_src_r03",
+    "publisher": "RTS",
+    "title": "Reportage Petit-Landau et Schaffhouse",
+    "url": "https://www.rts.ch/play/tv/mise-au-point/video/la-grande-peur-des-data-centers?urn=urn%3Arts%3Avideo%3Aa02b074e-3c3d-39f4-8249-40ea4440fb0a",
+    "provenance": "Petit l.xlsx, ressource 3",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
   },
   {
-    "id": "source_0003",
-    "title": "Dernières Nouvelles d’Alsace : Article du 21 septembre 2026 sur la journée de mobilisation organisée par le collectif IA pas moyen aux Sheds de Kingersheim, réunissant quinze associations et plusieurs responsables écologistes.",
-    "publisher": "Dernières Nouvelles d’Alsace",
-    "url": null,
-    "source_type": "corpus_secondary_reference",
-    "published_at": null,
-    "status": "url_to_add"
+    "id": "pl_src_r05",
+    "publisher": "France 3",
+    "title": "Autorisation préfectorale et recours annoncés",
+    "url": "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/mulhouse/data-center-de-microsoft-en-alsace-le-projet-autorise-par-le-prefet-les-opposants-preparent-des-recours-3434847.html",
+    "provenance": "Petit l.xlsx, ressource 5",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
   },
   {
-    "id": "source_0004",
-    "title": "L’Usine Nouvelle : Article du 25 août 2026 retraçant la sélection du site, le rôle d’Olivier Becht, de Corine de Bilbao, de Gilbert Stimpflin et d’Euro Rhein Ports, ainsi que les négociations industrielles et foncières.",
-    "publisher": "L’Usine Nouvelle",
-    "url": null,
-    "source_type": "corpus_secondary_reference",
-    "published_at": null,
-    "status": "url_to_add"
+    "id": "pl_src_r06",
+    "publisher": "L'Alsace",
+    "title": "Arrêté préfectoral du 15 octobre 2026",
+    "url": "https://www.lalsace.fr/economie/2026/10/16/le-prefet-du-haut-rhin-autorise-l-exploitation-du-data-center-a-petit-landau",
+    "provenance": "Petit l.xlsx, ressource 6",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
   },
   {
-    "id": "source_0005",
-    "title": "France 3 Grand Est : Ressources d’août 2026 relatives à l’avis favorable du commissaire enquêteur, à l’opposition locale, au calendrier envisagé et aux emplois annoncés.",
+    "id": "pl_src_r07",
+    "publisher": "Alterpresse 68",
+    "title": "Conseil M2A 12 octobre, votes et critiques",
+    "url": "https://www.alterpresse68.info/2026/10/14/data-center-de-petit-landau-mulhouse-agglo-declare-le-projet-dinteret-general-les-opposants-ne-desarment-pas/",
+    "provenance": "Petit l.xlsx, ressource 7",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r09",
+    "publisher": "DNA",
+    "title": "M2A approuve la déclaration de projet",
+    "url": "https://www.dna.fr/economie/2026/10/13/data-center-de-petit-landau-mulhouse-alsace-agglomeration-approuve-le-projet",
+    "provenance": "Petit l.xlsx, ressource 9",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r13",
+    "publisher": "DNA",
+    "title": "Témoignages opposés le 12 octobre",
+    "url": "https://www.dna.fr/economie/2026/10/12/on-neglige-l-avis-des-citoyens-les-opposants-au-projet-de-data-center-a-petit-landau-ne-desarment-pas",
+    "provenance": "Petit l.xlsx, ressource 13",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r20",
+    "publisher": "Politico",
+    "title": "Coalitions et débats politiques sur les data centers",
+    "url": "https://www.politico.eu/article/comment-la-grogne-contre-les-datacenters-pourrait-sinviter-dans-la-campagne-presidentielle/",
+    "provenance": "Petit l.xlsx, ressource 20",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r21",
+    "publisher": "DNA",
+    "title": "Mobilisation IA pas moyen du 19 septembre",
+    "url": "https://www.dna.fr/environnement/2026/09/21/projet-de-data-center-a-petit-landau-notre-combat-n-a-qu-un-but-preserver-l-environnement",
+    "provenance": "Petit l.xlsx, ressource 21",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r24",
+    "publisher": "L'Alsace",
+    "title": "Manifestation devant sous-préfecture, 28 août",
+    "url": "https://www.lalsace.fr/faits-divers-justice/2026/08/28/data-center-microsoft-a-petit-landau-les-opposants-manifestent-devant-la-sous-prefecture-de-mulhouse",
+    "provenance": "Petit l.xlsx, ressource 24",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r25",
+    "publisher": "ChannelNews",
+    "title": "Commissaire enquêteur et Alter Alsace Énergies",
+    "url": "https://www.channelnews.fr/le-commissaire-charge-de-lenquete-publique-valide-le-projet-de-datacenter-de-microsoft-a-petit-landau-158477",
+    "provenance": "Petit l.xlsx, ressource 25",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r29",
+    "publisher": "L'Info Durable / AFP",
+    "title": "Eau, électricité et enquête publique",
+    "url": "https://www.linfodurable.fr/entreprises/avis-favorable-la-construction-dun-data-center-de-microsoft-pres-de-mulhouse-58684",
+    "provenance": "Petit l.xlsx, ressource 29",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r31",
+    "publisher": "L'Usine Nouvelle",
+    "title": "Becht, de Bilbao, Stimpflin, Riche et foncier",
+    "url": "https://www.usinenouvelle.com/electronique-informatique/cloud-computing/datacenters/jai-deja-des-appels-dentreprises-qui-souhaitent-simplanter-a-cote-comment-lalsace-et-microsoft-ont-vite-trouve-des-interets-communs-au-projet-de-datacenter-a-petit-landau.DTBWQHF77NJCRL3ITCWN3RCLHA.html",
+    "provenance": "Petit l.xlsx, ressource 31",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r32",
+    "publisher": "L'Alsace",
+    "title": "Avis favorables malgré contributions défavorables",
+    "url": "https://www.lalsace.fr/economie/2026/08/24/centre-de-donnees-un-avis-favorable-malgre-80-de-contributions-defavorables",
+    "provenance": "Petit l.xlsx, ressource 32",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r34",
+    "publisher": "L'Alsace",
+    "title": "Chalampé : avis favorable et régie de chaleur",
+    "url": "https://www.lalsace.fr/politique/2026/07/17/avis-favorable-pour-le-projet-de-data-center-et-creation-d-une-regie-de-chaleur",
+    "provenance": "Petit l.xlsx, ressource 34",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r35",
+    "publisher": "DNA",
+    "title": "Petit-Landau : 14 pour et une abstention",
+    "url": "https://www.dna.fr/economie/2026/07/09/au-conseil-municipal-14-votes-en-faveur-du-projet-de-centre-de-donnees-1-abstention",
+    "provenance": "Petit l.xlsx, ressource 35",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r36",
+    "publisher": "DNA",
+    "title": "Brice Martin critique l'enquête publique",
+    "url": "https://www.dna.fr/economie/2026/07/05/enquete-publique-sur-le-centre-de-donnees-de-microsoft-de-la-vraie-fausse-democratie",
+    "provenance": "Petit l.xlsx, ressource 36",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r39",
+    "publisher": "L'Alsace",
+    "title": "Soirée du collectif IA pas moyen à Motoco",
+    "url": "https://www.lalsace.fr/economie/2026/07/01/plus-de-200-personnes-a-la-soiree-du-collectif-ia-pas-moyen-oppose-aux-data-centers",
+    "provenance": "Petit l.xlsx, ressource 39",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r40",
+    "publisher": "Alterpresse 68",
+    "title": "Organisations mobilisées contre le data center",
+    "url": "https://www.alterpresse68.info/2026/06/19/data-center-microsoft-de-petit-landau-le-collectif-ia-pas-moyen-se-rassemblera-le-22-juin-devant-le-conseil-dagglomeration-de-mulhouse/",
+    "provenance": "Petit l.xlsx, ressource 40",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r42",
     "publisher": "France 3 Grand Est",
-    "url": null,
-    "source_type": "corpus_secondary_reference",
-    "published_at": null,
-    "status": "url_to_add"
+    "title": "Avis favorable M2A le 22 juin",
+    "url": "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/mulhouse/data-center-microsoft-en-alsace-l-agglomeration-de-mulhouse-rend-un-avis-favorable-sur-la-demande-d-autorisation-environnementale-3373639.html",
+    "provenance": "Petit l.xlsx, ressource 42",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
   },
   {
-    "id": "source_0006",
-    "title": "La Tribune : Article du 25 août 2026 documentant l’investissement de 2 milliards d’euros, les 35 hectares, les 1 500 GWh annuels, les 200 emplois directs et la mise en service envisagée à partir de 2029.",
-    "publisher": "La Tribune",
-    "url": null,
-    "source_type": "corpus_secondary_reference",
-    "published_at": null,
-    "status": "url_to_add"
+    "id": "pl_src_r44",
+    "publisher": "DNA",
+    "title": "90 manifestants, Michel de Dietwiller",
+    "url": "https://www.dna.fr/economie/2026/06/22/90-personnes-mobilisees-contre-le-projet-de-centre-de-donnees",
+    "provenance": "Petit l.xlsx, ressource 44",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
   },
   {
-    "id": "source_0007",
-    "title": "Rue89 Strasbourg : Analyse détaillée des contributions à l’enquête publique, des avis des associations et des entreprises, et de la motivation du commissaire enquêteur.",
-    "publisher": "Rue89 Strasbourg",
-    "url": null,
-    "source_type": "corpus_secondary_reference",
-    "published_at": null,
-    "status": "url_to_add"
+    "id": "pl_src_r45",
+    "publisher": "ICI Alsace",
+    "title": "Laurent Riche et Joseph Baumann",
+    "url": "https://www.ici.fr/grand-est/alsace-cea/mulhouse/l-agglomeration-de-mulhouse-donne-un-avis-favorable-au-projet-de-data-center-de-microsoft-6695863",
+    "provenance": "Petit l.xlsx, ressource 45",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r47",
+    "publisher": "L'Alsace",
+    "title": "Passerelle sur le Rhin et chaleur",
+    "url": "https://www.lalsace.fr/environnement/2026/06/18/sur-le-rhin-une-future-passerelle-pour-pietons-cyclistes-et-pour-acheminer-la-chaleur-du-centre-de-donnees",
+    "provenance": "Petit l.xlsx, ressource 47",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r48",
+    "publisher": "France 3 Grand Est",
+    "title": "Michèle Grosjean et oppositions",
+    "url": "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/data-center-microsoft-a-2-milliards-d-euros-en-alsace-pourquoi-le-projet-suscite-une-forte-opposition-3364648.html",
+    "provenance": "Petit l.xlsx, ressource 48",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r49",
+    "publisher": "ChannelNews",
+    "title": "Prise de position d'Annie de Larochelambert",
+    "url": "https://www.channelnews.fr/le-projet-de-datacenter-de-microsoft-a-petit-landau-en-cours-denquete-publique-157116",
+    "provenance": "Petit l.xlsx, ressource 49",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r51",
+    "publisher": "DNA",
+    "title": "Conférence Alsace Nature et participants en juin",
+    "url": "https://www.dna.fr/environnement/2026/06/07/projet-de-centre-de-donnees-l-enquete-publique-a-debute-les-opposants-s-organisent",
+    "provenance": "Petit l.xlsx, ressource 51",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r53",
+    "publisher": "DNA",
+    "title": "Avis MRAe sur eau, énergie et dangers",
+    "url": "https://www.dna.fr/economie/2026/03/25/projet-de-data-center-microsoft-une-tres-forte-consommation-electrique",
+    "provenance": "Petit l.xlsx, ressource 53",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r54",
+    "publisher": "DNA",
+    "title": "Rôle d'Olivier Becht dans la sélection foncière",
+    "url": "https://www.dna.fr/economie/2026/02/07/dans-les-coulisses-du-projet-de-centre-de-donnees-de-microsoft-a-petit-landau",
+    "provenance": "Petit l.xlsx, ressource 54",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_r55",
+    "publisher": "DNA",
+    "title": "Réunion de 2025 : Talleux et Engasser",
+    "url": "https://www.dna.fr/economie/2025/07/05/microsoft-un-gros-bebe-pour-petit-landau",
+    "provenance": "Petit l.xlsx, ressource 55",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_mrae",
+    "publisher": "Préfecture du Haut-Rhin",
+    "title": "Avis MRAe 19 mars 2026",
+    "url": "https://www.haut-rhin.gouv.fr/Publications/Consultation-du-public-et-installations-classees/Avis-de-l-autorite-environnementale/2026-03-19-MICROSOFT-1985-France-Sarl",
+    "provenance": "source publique complémentaire",
+    "verification": "public_page_verified",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_enquete",
+    "publisher": "CNCE",
+    "title": "Enquête publique unique du 1er juin au 3 juillet",
+    "url": "https://www.cnce.fr/procedure/3227",
+    "provenance": "source publique complémentaire",
+    "verification": "public_page_verified",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_m2a",
+    "publisher": "M2A",
+    "title": "Délibérations de l'agglomération d'octobre",
+    "url": "https://www.m2a.fr/agglo/fonctionnement/deliberations-decisions-arretes-m2a/",
+    "provenance": "source publique complémentaire",
+    "verification": "public_page_verified",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_plu",
+    "publisher": "M2A",
+    "title": "Procédure de mise en compatibilité du PLU",
+    "url": "https://www.m2a.fr/urbanisme-amenagement/plan-local-durbanisme-plu/",
+    "provenance": "source publique complémentaire",
+    "verification": "public_page_verified",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_alsacenature",
+    "publisher": "Alsace Nature",
+    "title": "Déclaration officielle d'opposition et moratoire",
+    "url": "https://alsacenature.org/amenagement-du-territoire/non-au-data-center-de-petit-landau/",
+    "provenance": "source publique complémentaire",
+    "verification": "public_page_verified",
+    "status": "qualified_url"
+  },
+  {
+    "id": "pl_src_permis",
+    "publisher": "DNA",
+    "title": "Permis Petit-Landau et Hombourg signés le 27 octobre",
+    "url": "https://www.dna.fr/economie/2026/11/04/centre-de-donnees-petit-landau-et-hombourg-ont-delivre-les-permis-de-construire-alsace-nature-prepare-un-recours",
+    "provenance": "source publique complémentaire",
+    "verification": "public_page_verified",
+    "status": "qualified_url"
   }
 ]

@@ -1,75 +1,263 @@
 {
   "griefs": [
     {
-      "title": "⚡ Surconsommation énergétique & Monopolisation",
-      "text": "Le data center consommera jusqu'à 80 % de la consommation électrique actuelle des ménages du Haut-Rhin (1 500 à 1 750 GWh), accaparant virtuellement l'hydroélectricité locale décarbonée."
+      "title": "🌾 Foncier agricole et biodiversité",
+      "text": "Alsace Nature et la Confédération paysanne contestent le projet sur environ 36 ha de foncier, dont des cultures biologiques. L'emprise n'est pas équivalente à la surface totalement imperméabilisée.",
+      "evidence_ids": [
+        "pl_proof_011",
+        "pl_proof_013",
+        "pl_proof_070"
+      ]
     },
     {
-      "title": "🌾 Artificialisation des Terres",
-      "text": "Consommation irréversible de 36 à 40 hectares de terres agricoles fertiles, dont une dizaine d'hectares cultivés en agriculture biologique le long du Grand Canal d'Alsace."
+      "title": "⚡ Demande électrique",
+      "text": "La MRAe estime la consommation projetée à plus de 1 500 GWh/an, ordre de grandeur proche de 80 % de celle des ménages du Haut-Rhin. Les opposants contestent son opportunité; aucun détournement d'une centrale hydraulique précise n'est établi.",
+      "evidence_ids": [
+        "pl_proof_065",
+        "pl_proof_010"
+      ]
     },
     {
-      "title": "🌡️ Dôme de chaleur & Nuisances sanitaires",
-      "text": "Craintes sérieuses concernant la dissipation de chaleur (+2 à 3 °C localement), le bruit continu des serveurs, et la pollution aux NOx liée au fonctionnement test ou dégradé des 111 groupes électrogènes de secours."
+      "title": "🌡️ Chaleur et bruit",
+      "text": "Des associations redoutent bruit et chaleur dégagée. Le commissaire enquêteur a posé une réserve acoustique et demande des mesures après mise en service, pas déjà réalisées.",
+      "evidence_ids": [
+        "pl_proof_064",
+        "pl_proof_038"
+      ]
     },
     {
-      "title": "🎭 Vraie fausse démocratie & Usure",
-      "text": "L'enquête publique est critiquée comme une 'chambre d'enregistrement' trop complexe et trop courte (1 mois), entraînant un épuisement des forces militantes locales."
+      "title": "💨 Diesel, NOx et risques sanitaires",
+      "text": "Le projet envisage 111 groupes de secours. La MRAe demande des compléments sur les risques sanitaires; les émissions et effets allégués ne sont pas des résultats mesurés.",
+      "evidence_ids": [
+        "pl_proof_065",
+        "pl_proof_072"
+      ]
     },
     {
-      "title": "🎨 Impact Culturel de l'IA",
-      "text": "Un nouveau front s'ouvre avec les milieux artistiques qui dénoncent la menace de l'IA générative sur les métiers créatifs et la production culturelle."
+      "title": "💧 Eau et refroidissement",
+      "text": "Les opposants souhaitent des garanties. Le rapport cité par l'AFP envisage 5 000 m³/an d'eau potable, sans prélèvement direct prévu dans le Rhin ou la nappe; données de conception non constatées.",
+      "evidence_ids": [
+        "pl_proof_066",
+        "pl_proof_012"
+      ]
     },
     {
-      "title": "⚖️ Dissymétrie Fiscale",
-      "text": "Doute croissant sur les véritables retombées économiques et fiscales pour les communes d'accueil, jugées faibles en regard de l'emprise territoriale."
+      "title": "🗳️ Transparence et enquête publique",
+      "text": "IA pas moyen et Brice Martin critiquent la procédure de 33 jours. Environ 80 % des contributions étaient défavorables, ce qui ne constitue pas un référendum représentatif.",
+      "evidence_ids": [
+        "pl_proof_064",
+        "pl_proof_018"
+      ]
     },
     {
-      "title": "🗳️ Avis favorable malgré opposition citoyenne",
-      "text": "Le commissaire enquêteur a rendu un avis favorable le 24 août 2026 alors que 81 % des 636 contributions de particuliers étaient défavorables et que 13 des 14 associations participantes avaient exprimé une opposition."
+      "title": "⚖️ Autorisations et recours",
+      "text": "L'autorisation environnementale a été délivrée le 15 octobre et les permis le 27 octobre. Des recours sont annoncés, mais aucun jugement d'annulation n'est établi.",
+      "evidence_ids": [
+        "pl_proof_062",
+        "pl_proof_061",
+        "pl_proof_003"
+      ]
     },
     {
-      "title": "🔊 Contrôle acoustique tardif",
-      "text": "La seule réserve explicite du commissaire enquêteur porte sur la mesure du bruit une fois le site en fonctionnement, avec des mesures correctives si les niveaux constatés sont excessifs."
+      "title": "🔒 Souveraineté numérique",
+      "text": "Annie de Larochelambert et des élus interrogent la dépendance liée à Microsoft et au droit américain. Il s'agit de critiques politiques, sans constat d'infraction sur le traitement des données.",
+      "evidence_ids": [
+        "pl_proof_039",
+        "pl_proof_034"
+      ]
     },
     {
-      "title": "💧 Autorisation de pompage à clarifier",
-      "text": "Les opposants évoquent une autorisation de pompage dans la nappe phréatique pour alimenter ou compléter le système de refroidissement en circuit fermé."
+      "title": "💼 Retombées économiques",
+      "text": "Les partisans mettent en avant plus de 2 Md€ annoncés et 197–301 ETP projetés; des élus questionnent la fiscalité future. Projections non assimilables à des emplois déjà pourvus.",
+      "evidence_ids": [
+        "pl_proof_069",
+        "pl_proof_007"
+      ]
     },
     {
-      "title": "🏗️ Foncier intégral contre engagement progressif",
-      "text": "La vente porte sur environ 36 hectares alors que le calendrier industriel, le nombre final de bâtiments et les caractéristiques des phases ultérieures ne sont pas encore complètement stabilisés."
+      "title": "🎨 Arts et emploi créatif",
+      "text": "La tenue à Motoco d'une soirée d'opposition élargit le débat aux métiers de la création et à l'IA. Elle ne prouve pas l'opposition unanime du lieu ou de tous les artistes.",
+      "evidence_ids": [
+        "pl_proof_019",
+        "pl_proof_010"
+      ]
     },
     {
-      "title": "☁️ Stratégie territoriale Azure élargie",
-      "text": "Petit-Landau serait le premier élément d’un triangle de trois grands data centers espacés d’environ 20 kilomètres, ce qui pourrait cumuler les pressions à l’échelle du Sud Alsace."
+      "title": "♻️ Chaleur franco-allemande",
+      "text": "Une passerelle envisagée vers Bad Bellingen pourrait un jour faciliter une récupération thermique, sous conditions de faisabilité et de financement non démontrées.",
+      "evidence_ids": [
+        "pl_proof_067",
+        "pl_proof_068"
+      ]
+    },
+    {
+      "title": "🏛️ Votes territoriaux différenciés",
+      "text": "Petit-Landau, Chalampé, Niffer et Ottmarsheim ont voté favorablement, Bantzenheim défavorablement; certains membres de M2A ont voté contre le 12 octobre.",
+      "evidence_ids": [
+        "pl_proof_020",
+        "pl_proof_028",
+        "pl_proof_073"
+      ]
     }
   ],
   "vigilance": [
-    "<strong>Évolution réglementaire sur le secret des affaires</strong> : Le blocage européen sur les données environnementales des sites risque de limiter considérablement l'accès citoyen et associatif à l'information réelle sur la pollution et la consommation, en tension avec la convention d'Aarhus.",
-    "<strong>Phasage asymétrique</strong> : Incohérence relevée entre la cession intégrale du foncier (36 ha) et la promesse de Microsoft qui ne s'engage avec certitude que sur le premier bâtiment à ce stade, soulevant le risque d'une immobilisation foncière disproportionnée.",
-    "<strong>Statut de T. Engasser</strong> : Désigné comme 'ancien' maire de Hombourg par la presse, ce qui implique une reconfiguration récente de l'exécutif de la commune la plus directement touchée par le projet.",
-    "<strong>Avis du commissaire enquêteur :</strong> L’avis favorable du 24 août 2026 est consultatif et ne doit pas être assimilé à une autorisation préfectorale définitive.",
-    "<strong>Décision préfectorale :</strong> Une décision est annoncée pour octobre 2026 dans le corpus, mais aucune décision définitive n’est documentée dans le rapport du 23 septembre.",
-    "<strong>Opposition citoyenne :</strong> Le rapport détaillé mentionne 81 % de contributions individuelles défavorables, tandis que plusieurs articles utilisent l’arrondi de 80 %.",
-    "<strong>Surfaces variables :</strong> Les sources évoquent 15 hectares pour une première emprise, environ 35 ou 36 hectares pour le foncier principal et jusqu’à 40 hectares dans certaines présentations générales.",
-    "<strong>Emplois variables :</strong> Microsoft annonce environ 200 emplois directs en exploitation, alors que des projections élargies atteignent 301 emplois. Les emplois de chantier et indirects doivent être distingués.",
-    "<strong>Consommation électrique :</strong> Les 1 500 GWh annuels correspondent à une quantité d’énergie et ne doivent pas être confondus avec la puissance instantanée du raccordement demandé à RTE.",
-    "<strong>Ressource en eau :</strong> Vérifier dans l’arrêté ou le dossier environnemental les volumes autorisés dans la nappe, le caractère permanent ou d’appoint du pompage et les restrictions en période de sécheresse.",
-    "<strong>Bruit :</strong> La réserve prévoit principalement une vérification après mise en service. Les valeurs limites, points de mesure et dispositifs préventifs doivent être identifiés.",
-    "<strong>Vente foncière :</strong> La vente est décrite comme en cours de signature. Ne pas présenter le transfert de propriété comme définitivement réalisé sans acte publié.",
-    "<strong>Triangle Azure :</strong> Microsoft continue de prospecter pour deux autres sites, mais leur localisation, leur puissance et leur calendrier ne sont pas connus.",
-    "<strong>Identité de Cécile :</strong> La membre du collectif citée uniquement comme Cécile ne doit pas être automatiquement assimilée à Cécile Germain-Ecuer.",
-    "<strong>Relations foncières :</strong> Clarifier les rôles respectifs du SMO et d’Euro Rhein Ports dans la propriété, la gestion et la cession des parcelles.",
-    "<strong>Statut de Thierry Engasser :</strong> Certaines ressources le qualifient d’ancien maire de Hombourg. Sa fonction actuelle doit être vérifiée avant une prochaine mise à jour."
+    {
+      "title": "Permis signés le 27 octobre",
+      "text": "L'absence de permis mentionnée dans les articles d'avant novembre est désormais obsolète. Les deux communes les ont délivrés, selon DNA du 4 novembre.",
+      "evidence_ids": [
+        "pl_proof_061"
+      ]
+    },
+    {
+      "title": "Arrêté environnemental distinct",
+      "text": "L'autorisation préfectorale d'exploiter du 15 octobre est distincte des deux permis du 27 octobre; aucune exploitation effective n'est connue.",
+      "evidence_ids": [
+        "pl_proof_062",
+        "pl_proof_061"
+      ]
+    },
+    {
+      "title": "Recours annoncé ≠ recours déposé",
+      "text": "Les opposants déclarent préparer des recours. Il faut obtenir les actes de saisine et décisions de justice avant de décrire un contentieux comme tranché.",
+      "evidence_ids": [
+        "pl_proof_003",
+        "pl_proof_011"
+      ]
+    },
+    {
+      "title": "Calendrier industriel divergent",
+      "text": "Les articles présentent des lancements de chantier fin 2027 ou 2029; ne pas inscrire une date ferme de mise en service.",
+      "evidence_ids": [
+        "pl_proof_071"
+      ]
+    },
+    {
+      "title": "Surface du terrain et sols scellés",
+      "text": "Emprise d'environ 36 ha, avec des chiffres de presse à 35, 35,7 et 40 ha; la surface du périmètre n'est pas l'artificialisation intégrale.",
+      "evidence_ids": [
+        "pl_proof_070"
+      ]
+    },
+    {
+      "title": "Eau potable ≠ nappe ≠ Rhin",
+      "text": "Les 5 000 m³/an annoncés relèvent du réseau potable. Aucun pompage direct dans le Rhin ou la nappe n'est prévu selon l'enquêteur; vérifier les conditions d'exploitation.",
+      "evidence_ids": [
+        "pl_proof_066"
+      ]
+    },
+    {
+      "title": "Énergie : GWh annuels",
+      "text": "Plus de 1 500 GWh/an représentent une estimation de consommation et non une puissance en MW ni une réservation de production hydroélectrique locale.",
+      "evidence_ids": [
+        "pl_proof_065"
+      ]
+    },
+    {
+      "title": "111 groupes électrogènes de secours",
+      "text": "Aucune émission opérationnelle de NOx n'a encore été mesurée; les simulations et prescrits doivent être suivis.",
+      "evidence_ids": [
+        "pl_proof_065",
+        "pl_proof_072"
+      ]
+    },
+    {
+      "title": "Bruit et chaleur",
+      "text": "La réserve de l'enquêteur impose un suivi acoustique futur; les températures évoquées sont des scénarios non des mesures du site en service.",
+      "evidence_ids": [
+        "pl_proof_064",
+        "pl_proof_072"
+      ]
+    },
+    {
+      "title": "80 % de contributions défavorables",
+      "text": "Le décompte des avis publics n'est pas un sondage représentatif des habitants et varie selon la distinction personnes/contributions.",
+      "evidence_ids": [
+        "pl_proof_064"
+      ]
+    },
+    {
+      "title": "Les avis techniques ne sont pas du militantisme",
+      "text": "MRAe, CODERST, commissaire, préfecture et RTE ont une compétence procédurale; ne pas inférer une opinion favorable ou hostile.",
+      "evidence_ids": [
+        "pl_proof_014",
+        "pl_proof_055"
+      ]
+    },
+    {
+      "title": "Thierry Engasser : opinion vs acte officiel",
+      "text": "Son opposition initiale en 2025 ne permet pas de déduire qu'il a ensuite changé de conviction en signant le permis, acte relevant de ses fonctions.",
+      "evidence_ids": [
+        "pl_proof_004",
+        "pl_proof_061"
+      ]
+    },
+    {
+      "title": "Passerelle et récupération de chaleur",
+      "text": "Le comité consultatif du 3 novembre n'est pas un financement acquis, un contrat thermique ni une conduite opérationnelle vers l'Allemagne.",
+      "evidence_ids": [
+        "pl_proof_067"
+      ]
+    },
+    {
+      "title": "Études de chaleur à échéance",
+      "text": "M2A indique une étude de faisabilité de valorisation attendue au 1er octobre 2027 : ne pas présenter la chaleur comme déjà valorisée.",
+      "evidence_ids": [
+        "pl_proof_068"
+      ]
+    },
+    {
+      "title": "Statut des organisations représentées",
+      "text": "La simple présence d'un membre ou l'accueil d'une réunion ne vaut pas déclaration officielle ou action judiciaire de l'organisation.",
+      "evidence_ids": [
+        "pl_proof_019",
+        "pl_proof_047"
+      ]
+    },
+    {
+      "title": "Indépendance des sources",
+      "text": "Reprises AFP, newsletters et flux RSS ne sont pas des confirmations documentaires indépendantes; le rapport d'audit indique leur statut.",
+      "evidence_ids": [
+        "pl_proof_064"
+      ]
+    }
   ],
   "sources": [
-    "<strong>Rapport Petit-Landau 24-06-2026.docx</strong> : Recueil d'articles de presse (DNA, France 3, Rue89 Strasbourg, ChannelNews...) et communiqués locaux couvrant l'enquête publique.",
-    "<strong>Dimanche en Politique (France 3 Alsace)</strong> : Émission de débat confrontant élus et experts sur l'opportunité économique vs le risque environnemental.",
-    "<strong>Dernières Nouvelles d’Alsace :</strong> Article du 21 septembre 2026 sur la journée de mobilisation organisée par le collectif IA pas moyen aux Sheds de Kingersheim, réunissant quinze associations et plusieurs responsables écologistes.",
-    "<strong>L’Usine Nouvelle :</strong> Article du 25 août 2026 retraçant la sélection du site, le rôle d’Olivier Becht, de Corine de Bilbao, de Gilbert Stimpflin et d’Euro Rhein Ports, ainsi que les négociations industrielles et foncières.",
-    "<strong>France 3 Grand Est :</strong> Ressources d’août 2026 relatives à l’avis favorable du commissaire enquêteur, à l’opposition locale, au calendrier envisagé et aux emplois annoncés.",
-    "<strong>La Tribune :</strong> Article du 25 août 2026 documentant l’investissement de 2 milliards d’euros, les 35 hectares, les 1 500 GWh annuels, les 200 emplois directs et la mise en service envisagée à partir de 2029.",
-    "<strong>Rue89 Strasbourg :</strong> Analyse détaillée des contributions à l’enquête publique, des avis des associations et des entreprises, et de la motivation du commissaire enquêteur."
-  ]
+    "pl_src_r02",
+    "pl_src_r03",
+    "pl_src_r05",
+    "pl_src_r06",
+    "pl_src_r07",
+    "pl_src_r09",
+    "pl_src_r13",
+    "pl_src_r20",
+    "pl_src_r21",
+    "pl_src_r24",
+    "pl_src_r25",
+    "pl_src_r29",
+    "pl_src_r31",
+    "pl_src_r32",
+    "pl_src_r34",
+    "pl_src_r35",
+    "pl_src_r36",
+    "pl_src_r39",
+    "pl_src_r40",
+    "pl_src_r42",
+    "pl_src_r44",
+    "pl_src_r45",
+    "pl_src_r47",
+    "pl_src_r48",
+    "pl_src_r49",
+    "pl_src_r51",
+    "pl_src_r53",
+    "pl_src_r54",
+    "pl_src_r55",
+    "pl_src_mrae",
+    "pl_src_enquete",
+    "pl_src_m2a",
+    "pl_src_plu",
+    "pl_src_alsacenature",
+    "pl_src_permis"
+  ],
+  "method": "54 entrées du classeur relues; acteurs, avis, votes et hypothèses séparés, chaque prise de position et relation citée.",
+  "updated_at": "2026-11-07"
 }

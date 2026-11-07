@@ -34,3 +34,6 @@ python3 -m http.server 8000
 ```
 
 Ouvrir `http://localhost:8000/`. L'application charge des JSON via `fetch`, donc ouvrir directement `index.html` en `file://` ne suffit pas.
+
+## Actualisation 7 novembre 2026
+Quatre onglets, preuves URL et audit de 54 ressources. Voir [AUDIT_QUALIFICATION_2026-11-07.md](AUDIT_QUALIFICATION_2026-11-07.md).

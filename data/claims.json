@@ -1,472 +1,1022 @@
 [
   {
-    "id": "claim_0001",
+    "id": "pl_claim_actor_0002",
     "subject_id": "actor_0002",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Opposé à la prédation énergétique et foncière.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "summary": "Michel critique l'utilisation de terres agricoles, l'énergie prévue et la procédure lors de la manifestation du 22 juin.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0001"
+      "pl_proof_001"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0002",
+    "id": "pl_claim_actor_0003",
     "subject_id": "actor_0003",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Critique sur le manque d'outils citoyens.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "value": "neutral",
+    "summary": "Philippe demande publiquement comment la population peut agir; l'article ne lui attribue pas un rejet personnel explicite.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0002"
+      "pl_proof_002"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0003",
+    "id": "pl_claim_actor_0004",
     "subject_id": "actor_0004",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Opposée, demande la suspension du projet.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "summary": "Conseillère régionale et membre d'IA pas moyen, elle critique le projet et annonce la préparation de recours après l'arrêté préfectoral; leur dépôt n'est pas établi.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0003"
+      "pl_proof_003"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0004",
+    "id": "pl_claim_actor_0005",
     "subject_id": "actor_0005",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Opposé, projet déconnecté du territoire.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "value": "neutral",
+    "summary": "Maire de Hombourg, il critique en 2025 le manque d'ancrage local. Il signe le permis du 27 octobre 2026 dans sa compétence administrative; cela ne prouve pas un changement d'avis.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0004"
+      "pl_proof_004"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0005",
+    "id": "pl_claim_actor_0006",
     "subject_id": "actor_0006",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Critique vis-à-vis du projet.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
+    "value": "unknown",
+    "summary": "Léonie Hebert participe à la conférence de presse de juin; cette présence ne démontre pas une position nominative autonome.",
+    "status": "role_documented_no_project_stance",
+    "certainty": "low",
+    "evidence_ids": [
+      "pl_proof_005"
+    ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0006",
+    "id": "pl_claim_actor_0007",
     "subject_id": "actor_0007",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Favorable, garant de l'acceptabilité.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "summary": "Président de M2A, Fabian Jordan défend l'instruction du projet, dont l'agglomération a émis un avis favorable en juin puis approuvé la déclaration en octobre.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0005"
+      "pl_proof_006"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0007",
+    "id": "pl_claim_actor_0008",
     "subject_id": "actor_0008",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Soutient le projet tout en reconnaissant l’incertitude sur les recettes fiscales et le nombre d'emplois.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "value": "favorable",
+    "summary": "Laurent Riche soutient le projet tout en demandant des garanties sur eau, énergie, nuisances et retombées économiques.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0006"
+      "pl_proof_007"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0008",
+    "id": "pl_claim_actor_0009",
     "subject_id": "actor_0009",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Favorable/Prudente, opportunité de diversification.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "summary": "Maire de Petit-Landau, Carole Talleux défend la diversification locale; le conseil vote favorablement et elle signe en octobre un permis.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0007"
+      "pl_proof_008"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0009",
+    "id": "pl_claim_actor_0010",
     "subject_id": "actor_0010",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "A joué un rôle d’intermédiation décisif pour maintenir l’investissement en France.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "summary": "Olivier Becht décrit son rôle d'intermédiaire entre Microsoft et des acteurs territoriaux français pour trouver un site après des recherches difficiles.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0008"
+      "pl_proof_009"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0010",
+    "id": "pl_claim_actor_0011",
     "subject_id": "actor_0011",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Structure une opposition élargie au data center et organise des journées d’information.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "summary": "Le collectif organise les mobilisations des 22 juin, 28 août, 19 septembre et 12 octobre contre l'implantation de Microsoft et demande davantage de débat.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0009"
+      "pl_proof_010"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0011",
+    "id": "pl_claim_actor_0012",
     "subject_id": "actor_0012",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Alerte sur les impacts : chaleur, bruit, énergie.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "summary": "Alsace Nature oppose publiquement au projet et demande moratoire et transparence; un recours est annoncé, sans jugement démontré.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0010"
+      "pl_proof_011"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0012",
+    "id": "pl_claim_actor_0013",
     "subject_id": "actor_0013",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "Dénonce la colonisation numérique et la gabegie énergétique.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "summary": "Alter Alsace Énergies critique les besoins électriques et la promesse de souveraineté numérique du projet et appelle à un moratoire.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0011"
+      "pl_proof_012"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0013",
+    "id": "pl_claim_actor_0014",
     "subject_id": "actor_0014",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "S'oppose à l'artificialisation de 36 hectares.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "summary": "La Confédération paysanne d'Alsace figure parmi les organisations appelant explicitement à manifester contre l'implantation sur des terres agricoles.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0012"
+      "pl_proof_013"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0014",
+    "id": "pl_claim_actor_0015",
     "subject_id": "actor_0015",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Maintient des réserves sur la profondeur de l’analyse environnementale.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "value": "unknown",
+    "summary": "La MRAe rend en mars un avis critique sur l'insuffisance d'évaluation des impacts; il s'agit d'un avis réglementaire, non d'une opinion partisane.",
+    "status": "role_documented_no_project_stance",
+    "certainty": "low",
     "evidence_ids": [
-      "evidence_0013"
+      "pl_proof_014"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0015",
+    "id": "pl_claim_actor_0016",
     "subject_id": "actor_0016",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Opposé à l'urbanisation des bords du Rhin.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "value": "unknown",
+    "summary": "Le mouvement est représenté par Antoine Waechter à une conférence sur le dossier; aucune déclaration institutionnelle propre n'est rapportée.",
+    "status": "role_documented_no_project_stance",
+    "certainty": "low",
     "evidence_ids": [
-      "evidence_0014"
+      "pl_proof_015"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0016",
+    "id": "pl_claim_actor_0017",
     "subject_id": "actor_0017",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Structure un investissement estimé à 2 milliards d’euros, avec une mise en service annoncée à partir de 2029.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "summary": "Microsoft annonce un investissement supérieur à deux milliards d'euros en Alsace et porte le futur centre de données cloud/IA.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0015"
+      "pl_proof_016"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0017",
+    "id": "pl_claim_actor_0018",
     "subject_id": "actor_0018",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Aménage le raccordement industriel.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "value": "unknown",
+    "summary": "RTE est maître d'ouvrage des deux liaisons électriques 225 kV; ce rôle ne constitue pas une prise de position politique.",
+    "status": "role_documented_no_project_stance",
+    "certainty": "low",
     "evidence_ids": [
-      "evidence_0016"
+      "pl_proof_017"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0018",
-    "subject_id": "actor_0019",
-    "project_id": "project_petit_landau",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "favorable",
-    "summary": "Cède les 36 hectares de foncier.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09"
-  },
-  {
-    "id": "claim_0019",
+    "id": "pl_claim_actor_0020",
     "subject_id": "actor_0020",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Critique la légitimité et la brièveté de l'enquête publique.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "value": "neutral",
+    "summary": "Le géographe Brice Martin met en cause la portée démocratique de l'enquête publique regroupant plusieurs procédures, sans demander formellement l'abandon du data center.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0017"
+      "pl_proof_018"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0020",
+    "id": "pl_claim_actor_0021",
     "subject_id": "actor_0021",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Opposé au projet en raison des effets de l'IA sur le travail créatif.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "value": "unknown",
+    "summary": "Motoco accueille une soirée d'IA pas moyen le 30 juin; l'accueil du débat ne démontre pas l'opposition unanime de tous les artistes du lieu.",
+    "status": "role_documented_no_project_stance",
+    "certainty": "low",
     "evidence_ids": [
-      "evidence_0018"
+      "pl_proof_019"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0021",
-    "subject_id": "actor_0024",
-    "project_id": "project_petit_landau",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "neutral",
-    "summary": "Intervient dans le débat public régional sur le sujet.",
-    "certainty": "medium",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09"
-  },
-  {
-    "id": "claim_0022",
-    "subject_id": "actor_0025",
-    "project_id": "project_petit_landau",
-    "claim_type": "position",
-    "topic": "position_globale",
-    "value": "favorable",
-    "summary": "Approuvent officiellement le projet de data center.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
-    "evidence_ids": [
-      "evidence_0019"
-    ],
-    "valid_from": null,
-    "valid_to": null,
-    "updated_at": "2026-10-09"
-  },
-  {
-    "id": "claim_0023",
+    "id": "pl_claim_actor_0026",
     "subject_id": "actor_0026",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "opposed",
-    "summary": "S'oppose au projet par un vote formel.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "summary": "Bantzenheim rend un avis défavorable par onze voix contre, quatre pour et quatre abstentions, selon les avis municipaux rapportés par la presse.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0020"
+      "pl_proof_020"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0024",
+    "id": "pl_claim_actor_0027",
     "subject_id": "actor_0027",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Apporte un soutien politique national à la mobilisation contre le data center de Petit-Landau.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "value": "neutral",
+    "summary": "La députée écologiste est présente à un événement du collectif et engagée dans le débat politique, sans recours personnel ou vote sur l'autorisation établi dans cet article.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0021"
+      "pl_proof_021"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0025",
+    "id": "pl_claim_actor_0028",
     "subject_id": "actor_0028",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
-    "value": "opposed",
-    "summary": "Renforce la coalition politique et environnementale opposée au projet.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "value": "unknown",
+    "summary": "Antoine Waechter est présent à la conférence de presse environnementale, sans citation personnelle attribuée dans l'article.",
+    "status": "role_documented_no_project_stance",
+    "certainty": "low",
     "evidence_ids": [
-      "evidence_0022"
+      "pl_proof_022"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0026",
+    "id": "pl_claim_actor_0029",
     "subject_id": "actor_0029",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Interlocutrice de l’État lors de la recherche d’un site français et de la relance du projet.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "summary": "Ancienne présidente de Microsoft France, Corine de Bilbao contacte Olivier Becht dans la recherche d'un terrain français pour le programme.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0023"
+      "pl_proof_023"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0027",
+    "id": "pl_claim_actor_0030",
     "subject_id": "actor_0030",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "A proposé à Microsoft le site de Petit-Landau finalement retenu et présente le data center comme un facteur d’attractivité.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "summary": "Gilbert Stimpflin propose le terrain de Petit-Landau au nom d'Euro Rhein Ports et défend les retombées du campus pour l'attractivité locale.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0024"
+      "pl_proof_024"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
   },
   {
-    "id": "claim_0028",
+    "id": "pl_claim_actor_0031",
     "subject_id": "actor_0031",
     "project_id": "project_petit_landau",
     "claim_type": "position",
     "topic": "position_globale",
     "value": "favorable",
-    "summary": "Acteur foncier ayant contribué à proposer à Microsoft la bande de terrain de 36 hectares.",
-    "certainty": "high",
-    "status": "reported_in_provided_material",
+    "summary": "Euro Rhein Ports est cité comme propriétaire ou acteur foncier de l'emprise retenue par Microsoft pour le campus.",
+    "status": "attributed",
+    "certainty": "medium",
     "evidence_ids": [
-      "evidence_0025"
+      "pl_proof_025"
     ],
     "valid_from": null,
     "valid_to": null,
-    "updated_at": "2026-10-09"
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0032",
+    "subject_id": "actor_0032",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "La société Microsoft 1985 France Sàrl est pétitionnaire de l'autorisation environnementale et des permis de construire de Petit-Landau et Hombourg.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_026"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0033",
+    "subject_id": "actor_0033",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "M2A rend un avis favorable en juin puis vote la déclaration d'intérêt général et la mise en compatibilité du PLU le 12 octobre 2026.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_027"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0034",
+    "subject_id": "actor_0034",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Le conseil municipal de Petit-Landau vote le 7 juillet par quatorze voix pour et une abstention.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_028"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0035",
+    "subject_id": "actor_0035",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Chalampé émet un avis favorable le 2 juillet et examine une régie locale de chaleur.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_029"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0036",
+    "subject_id": "actor_0036",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Le conseil de Niffer rend un avis favorable à l'unanimité, selon la presse.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_030"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0037",
+    "subject_id": "actor_0037",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Le conseil d'Ottmarsheim rend un avis favorable par neuf voix pour, deux contre et huit abstentions.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_031"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0038",
+    "subject_id": "actor_0038",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Le maire de Chalampé défend l'intérêt potentiel de valoriser la chaleur pour les industriels rhénans; sa faisabilité n'est pas démontrée.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_032"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0039",
+    "subject_id": "actor_0039",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Vice-président de M2A chargé de l'urbanisme, Frédéric Guthmann défend la procédure de déclaration de projet du 12 octobre.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_033"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0040",
+    "subject_id": "actor_0040",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Thiébaut Weber vote contre la déclaration de projet de M2A du 12 octobre et critique la faiblesse du débat énergétique et de souveraineté.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_034"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0041",
+    "subject_id": "actor_0041",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Patricia Legouge vote contre la déclaration M2A du 12 octobre, interrogeant les enjeux d'IA au-delà de la seule urbanisation.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_035"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0042",
+    "subject_id": "actor_0042",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Annouar Sassi vote contre la déclaration M2A et demande davantage de temps de réflexion sur le projet.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_036"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0043",
+    "subject_id": "actor_0043",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Pierre Salze se prononce finalement favorablement le 12 octobre tout en soulevant des réserves sur le bilan NOx des groupes de secours.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_037"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0044",
+    "subject_id": "actor_0044",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Présidente d'Alsace Nature, Michèle Grosjean appelle à s'opposer au projet, invoquant l'énergie, le foncier, le bruit et la chaleur potentiels.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_038"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0045",
+    "subject_id": "actor_0045",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Présidente d'Alter Alsace Énergies, Annie de Larochelambert critique la dépendance envers le groupe américain et ses besoins électriques.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_039"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0046",
+    "subject_id": "actor_0046",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Joseph Baumann, d'Alsace Nature, conteste la consommation de terres, la dissipation de chaleur et les lacunes du débat public.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_040"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0047",
+    "subject_id": "actor_0047",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Stop Fessenheim figure parmi les organisations appelant à la mobilisation contre Petit-Landau.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_041"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0048",
+    "subject_id": "actor_0048",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Des représentants d'Attac 68 sont cités dans la manifestation du 22 juin contre Microsoft, sans preuve de recours propre.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_042"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0049",
+    "subject_id": "actor_0049",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Extinction Rebellion Alsace figure parmi les organisations citées dans l'appel à manifester contre Microsoft.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_043"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0050",
+    "subject_id": "actor_0050",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Les Soulèvements de la Terre sont mentionnés parmi les organisations rejoignant la mobilisation locale contre le site.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_044"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0051",
+    "subject_id": "actor_0051",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Eau en danger est nommé parmi les collectifs participant à l'appel de mobilisation contre le projet.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_045"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0052",
+    "subject_id": "actor_0052",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Des représentants de Climat 3F participent à la manifestation du 22 juin, sans recours propre identifié dans la source.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_046"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0053",
+    "subject_id": "actor_0053",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "unknown",
+    "summary": "Les Amis des Sheds sont représentés parmi les manifestants en juin; aucune prise de position officielle autonome de la structure n'est reproduite.",
+    "status": "role_documented_no_project_stance",
+    "certainty": "low",
+    "evidence_ids": [
+      "pl_proof_047"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0054",
+    "subject_id": "actor_0054",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Thomas Giroux, habitant de Petit-Landau interrogé par la RTS, affiche son opposition et explique participer à une pétition, inquiet des nuisances et des terres agricoles.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_048"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0055",
+    "subject_id": "actor_0055",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Mathieu Herrmann, agriculteur biologique sur les parcelles concernées, exprime une inquiétude sur la chaleur et l'agriculture, sans rejeter par principe l'infrastructure numérique.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_049"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0056",
+    "subject_id": "actor_0056",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Danièle, manifestante de Baldersheim citée sous son prénom, critique le défaut de prise en compte des avis citoyens.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_050"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0057",
+    "subject_id": "actor_0057",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Nicolas, manifestant de Rixheim cité sous son prénom, juge l'enquête publique insuffisante et non prise en compte.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_051"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0058",
+    "subject_id": "actor_0058",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Kevin, manifestant d'Ottmarsheim cité sous son prénom, redoute les effets écologiques du centre.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_052"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0059",
+    "subject_id": "actor_0059",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Cyril, manifestant de Mulhouse cité sous son prénom, critique l'ampleur de l'électricité annuelle envisagée.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_053"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0060",
+    "subject_id": "actor_0060",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "unknown",
+    "summary": "Emmanuel Aubry est le préfet qui signe l'arrêté d'autorisation environnementale du 15 octobre; un acte de sa compétence n'établit pas une adhésion politique.",
+    "status": "role_documented_no_project_stance",
+    "certainty": "low",
+    "evidence_ids": [
+      "pl_proof_054"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0061",
+    "subject_id": "actor_0061",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "unknown",
+    "summary": "Pierre Herzog, commissaire enquêteur, rend trois avis favorables le 24 août avec réserve acoustique et recommandations; cet avis réglementaire n'est pas militant.",
+    "status": "role_documented_no_project_stance",
+    "certainty": "low",
+    "evidence_ids": [
+      "pl_proof_055"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0062",
+    "subject_id": "actor_0062",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "unknown",
+    "summary": "Le CODERST émet un avis favorable le 6 octobre lors de l'instruction environnementale; il s'agit d'un avis consultatif.",
+    "status": "role_documented_no_project_stance",
+    "certainty": "low",
+    "evidence_ids": [
+      "pl_proof_056"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0063",
+    "subject_id": "actor_0063",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "unknown",
+    "summary": "La CDPENAF rend un avis défavorable sur la modification du PLU selon la presse; cet avis technique ne vaut pas un recours judiciaire.",
+    "status": "role_documented_no_project_stance",
+    "certainty": "low",
+    "evidence_ids": [
+      "pl_proof_057"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0064",
+    "subject_id": "actor_0064",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "unknown",
+    "summary": "Le maire de Bad Bellingen évoque une passerelle transfrontalière pouvant supporter une future conduite de chaleur Microsoft; aucun financement ou contrat n'est confirmé.",
+    "status": "role_documented_no_project_stance",
+    "certainty": "low",
+    "evidence_ids": [
+      "pl_proof_058"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0065",
+    "subject_id": "actor_0065",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Des élus Mulhouse en commun sont recensés parmi les voix contre la déclaration de projet du 12 octobre.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_059"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
+  },
+  {
+    "id": "pl_claim_actor_0066",
+    "subject_id": "actor_0066",
+    "project_id": "project_petit_landau",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Trois élus Nous sommes Mulhouse votent contre la déclaration de projet du 12 octobre, selon la presse.",
+    "status": "attributed",
+    "certainty": "medium",
+    "evidence_ids": [
+      "pl_proof_060"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-07"
   }
 ]

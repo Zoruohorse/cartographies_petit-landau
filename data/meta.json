@@ -1,7 +1,7 @@
 {
   "id": "project_petit_landau",
   "title": "Cartographie interactive — Projet Data Center Microsoft — Petit-Landau / Hombourg",
-  "subtitle": "Analyse consolidée et structurée des collèges d'acteurs, forces en présence, griefs énergétiques et points de vigilance autour de l'implantation de Microsoft en Alsace.",
-  "last_updated": "2026-10-09",
-  "data_notice": "Données issues du code Petit-Landau transmis : prises de position et preuves textuelles reprises telles quelles. Les URL et correspondances article → preuve n’étant pas fournies, elles restent à qualifier."
+  "subtitle": "Microsoft Petit-Landau et Hombourg — acteurs, oppositions, autorisations et chronologie vérifiables.",
+  "last_updated": "2026-11-07",
+  "data_notice": "Relu à partir de 54 entrées de Petit l.xlsx et sources complémentaires au 7 novembre 2026. Opinions explicitement attribuées et statuts administratifs distincts; les articles payants peuvent n'avoir été consultés qu'à travers leur texte dans le fichier."
 }

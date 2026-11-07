@@ -1,252 +1,938 @@
 [
   {
-    "id": "evidence_0001",
-    "type": "reported_verbatim_or_summary",
-    "text": "C'est une prédation de terres agricoles et d'énergie. C'est anti-démocratique, une gabegie énorme !",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_001",
+    "type": "documented_summary",
+    "text": "Michel critique l'utilisation de terres agricoles, l'énergie prévue et la procédure lors de la manifestation du 22 juin.",
+    "source_id": "pl_src_r44",
+    "source_ids": [
+      "pl_src_r44"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0002",
-    "type": "reported_verbatim_or_summary",
-    "text": "Vous dites que la population doit se manifester. Concrètement, on fait comment ?",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_002",
+    "type": "documented_summary",
+    "text": "Philippe demande publiquement comment la population peut agir; l'article ne lui attribue pas un rejet personnel explicite.",
+    "source_id": "pl_src_r51",
+    "source_ids": [
+      "pl_src_r51"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0003",
-    "type": "reported_verbatim_or_summary",
-    "text": "Je m’interroge sur cette stratégie. (...) comment les habitants sont-ils pris en considération ?",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_003",
+    "type": "documented_summary",
+    "text": "Conseillère régionale et membre d'IA pas moyen, elle critique le projet et annonce la préparation de recours après l'arrêté préfectoral; leur dépôt n'est pas établi.",
+    "source_id": "pl_src_r05",
+    "source_ids": [
+      "pl_src_r05"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0004",
-    "type": "reported_verbatim_or_summary",
-    "text": "Microsoft est déconnecté. Ça ne va pas servir l’activité locale, ça ne s’inscrit pas dans la logique du territoire.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_004",
+    "type": "documented_summary",
+    "text": "Maire de Hombourg, il critique en 2025 le manque d'ancrage local. Il signe le permis du 27 octobre 2026 dans sa compétence administrative; cela ne prouve pas un changement d'avis.",
+    "source_id": "pl_src_r55",
+    "source_ids": [
+      "pl_src_r55"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0005",
-    "type": "reported_verbatim_or_summary",
-    "text": "Nous sommes les représentants des habitants, pas de Microsoft.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_005",
+    "type": "documented_summary",
+    "text": "Léonie Hebert participe à la conférence de presse de juin; cette présence ne démontre pas une position nominative autonome.",
+    "source_id": "pl_src_r51",
+    "source_ids": [
+      "pl_src_r51"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0006",
-    "type": "reported_verbatim_or_summary",
-    "text": "Des formations en IA avec l’Université de Haute-Alsace sont en négociation.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_006",
+    "type": "documented_summary",
+    "text": "Président de M2A, Fabian Jordan défend l'instruction du projet, dont l'agglomération a émis un avis favorable en juin puis approuvé la déclaration en octobre.",
+    "source_id": "pl_src_r42",
+    "source_ids": [
+      "pl_src_r42"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0007",
-    "type": "reported_verbatim_or_summary",
-    "text": "Dans le paysage local, très centré sur la chimie, nous avons toujours eu la volonté d’accueillir quelque chose de différent.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_007",
+    "type": "documented_summary",
+    "text": "Laurent Riche soutient le projet tout en demandant des garanties sur eau, énergie, nuisances et retombées économiques.",
+    "source_id": "pl_src_r45",
+    "source_ids": [
+      "pl_src_r45"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0008",
-    "type": "reported_verbatim_or_summary",
-    "text": "« Ne partez surtout pas, on va vous trouver quelque chose ! On a besoin de datacenters en France. »",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_008",
+    "type": "documented_summary",
+    "text": "Maire de Petit-Landau, Carole Talleux défend la diversification locale; le conseil vote favorablement et elle signe en octobre un permis.",
+    "source_id": "pl_src_r55",
+    "source_ids": [
+      "pl_src_r55"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0009",
-    "type": "reported_verbatim_or_summary",
-    "text": "Le collectif a organisé le 19 septembre 2026 aux Sheds de Kingersheim une journée de mobilisation.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_009",
+    "type": "documented_summary",
+    "text": "Olivier Becht décrit son rôle d'intermédiaire entre Microsoft et des acteurs territoriaux français pour trouver un site après des recherches difficiles.",
+    "source_id": "pl_src_r54",
+    "source_ids": [
+      "pl_src_r54"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0010",
-    "type": "reported_verbatim_or_summary",
-    "text": "Il faut qu’il y ait une masse d’habitants qui disent non.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_010",
+    "type": "documented_summary",
+    "text": "Le collectif organise les mobilisations des 22 juin, 28 août, 19 septembre et 12 octobre contre l'implantation de Microsoft et demande davantage de débat.",
+    "source_id": "pl_src_r40",
+    "source_ids": [
+      "pl_src_r40"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0011",
-    "type": "reported_verbatim_or_summary",
-    "text": "Nous risquons de dérouler le tapis rouge à une entreprise états-unienne [...] qui va nous mettre dans une situation de colonisés.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_011",
+    "type": "documented_summary",
+    "text": "Alsace Nature oppose publiquement au projet et demande moratoire et transparence; un recours est annoncé, sans jugement démontré.",
+    "source_id": "pl_src_alsacenature",
+    "source_ids": [
+      "pl_src_alsacenature"
+    ],
+    "source_status": "qualified",
+    "verification": "public_page_verified",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0012",
-    "type": "reported_verbatim_or_summary",
-    "text": "Il y a plein d'innovations qui sont possibles pour ramener de l'emploi sur le territoire.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_012",
+    "type": "documented_summary",
+    "text": "Alter Alsace Énergies critique les besoins électriques et la promesse de souveraineté numérique du projet et appelle à un moratoire.",
+    "source_id": "pl_src_r49",
+    "source_ids": [
+      "pl_src_r49"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0013",
-    "type": "reported_verbatim_or_summary",
-    "text": "L’évaluation environnementale est décrite comme souffrant d’un manque d’approfondissement des analyses.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_013",
+    "type": "documented_summary",
+    "text": "La Confédération paysanne d'Alsace figure parmi les organisations appelant explicitement à manifester contre l'implantation sur des terres agricoles.",
+    "source_id": "pl_src_r40",
+    "source_ids": [
+      "pl_src_r40"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0014",
-    "type": "reported_verbatim_or_summary",
-    "text": "Ce que nous disons, c’est qu’il faut arrêter cette urbanisation linéaire.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_014",
+    "type": "documented_summary",
+    "text": "La MRAe rend en mars un avis critique sur l'insuffisance d'évaluation des impacts; il s'agit d'un avis réglementaire, non d'une opinion partisane.",
+    "source_id": "pl_src_mrae",
+    "source_ids": [
+      "pl_src_mrae"
+    ],
+    "source_status": "qualified",
+    "verification": "public_page_verified",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0015",
-    "type": "reported_verbatim_or_summary",
-    "text": "Microsoft a créé un comité de pilotage et six comités techniques.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_015",
+    "type": "documented_summary",
+    "text": "Le mouvement est représenté par Antoine Waechter à une conférence sur le dossier; aucune déclaration institutionnelle propre n'est rapportée.",
+    "source_id": "pl_src_r51",
+    "source_ids": [
+      "pl_src_r51"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0016",
-    "type": "reported_verbatim_or_summary",
-    "text": "Nous prenons en compte la demande de Microsoft.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_016",
+    "type": "documented_summary",
+    "text": "Microsoft annonce un investissement supérieur à deux milliards d'euros en Alsace et porte le futur centre de données cloud/IA.",
+    "source_id": "pl_src_r55",
+    "source_ids": [
+      "pl_src_r55"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0017",
-    "type": "reported_verbatim_or_summary",
-    "text": "Ce sont des outils de la vraie fausse démocratie.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_017",
+    "type": "documented_summary",
+    "text": "RTE est maître d'ouvrage des deux liaisons électriques 225 kV; ce rôle ne constitue pas une prise de position politique.",
+    "source_id": "pl_src_enquete",
+    "source_ids": [
+      "pl_src_enquete"
+    ],
+    "source_status": "qualified",
+    "verification": "public_page_verified",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0018",
-    "type": "reported_verbatim_or_summary",
-    "text": "La contestation ne porte plus seulement sur les sols, l'eau ou l'énergie, mais aussi sur les effets de l'intelligence artificielle impactant le travail créatif.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_018",
+    "type": "documented_summary",
+    "text": "Le géographe Brice Martin met en cause la portée démocratique de l'enquête publique regroupant plusieurs procédures, sans demander formellement l'abandon du data center.",
+    "source_id": "pl_src_r36",
+    "source_ids": [
+      "pl_src_r36"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0019",
-    "type": "reported_verbatim_or_summary",
-    "text": "Avis favorable à Chalampé et Niffer (à l’unanimité), favorable également à Ottmarsheim.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_019",
+    "type": "documented_summary",
+    "text": "Motoco accueille une soirée d'IA pas moyen le 30 juin; l'accueil du débat ne démontre pas l'opposition unanime de tous les artistes du lieu.",
+    "source_id": "pl_src_r39",
+    "source_ids": [
+      "pl_src_r39"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0020",
-    "type": "reported_verbatim_or_summary",
-    "text": "Défavorable à Bantzenheim (quatre pour, onze contre, quatre abstentions).",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_020",
+    "type": "documented_summary",
+    "text": "Bantzenheim rend un avis défavorable par onze voix contre, quatre pour et quatre abstentions, selon les avis municipaux rapportés par la presse.",
+    "source_id": "pl_src_r35",
+    "source_ids": [
+      "pl_src_r35"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0021",
-    "type": "reported_verbatim_or_summary",
-    "text": "A animé une table ronde lors de la journée d’information et de mobilisation du 19 septembre 2026 à Kingersheim.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_021",
+    "type": "documented_summary",
+    "text": "La députée écologiste est présente à un événement du collectif et engagée dans le débat politique, sans recours personnel ou vote sur l'autorisation établi dans cet article.",
+    "source_id": "pl_src_r20",
+    "source_ids": [
+      "pl_src_r20"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0022",
-    "type": "reported_verbatim_or_summary",
-    "text": "A participé à la table ronde contre le projet aux côtés de Cyrielle Chatelain et Cécile Germain-Ecuer.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_022",
+    "type": "documented_summary",
+    "text": "Antoine Waechter est présent à la conférence de presse environnementale, sans citation personnelle attribuée dans l'article.",
+    "source_id": "pl_src_r51",
+    "source_ids": [
+      "pl_src_r51"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0023",
-    "type": "reported_verbatim_or_summary",
-    "text": "Olivier Becht indique avoir reçu Corine de Bilbao en 2023 afin de convaincre Microsoft de maintenir son projet en France.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_023",
+    "type": "documented_summary",
+    "text": "Ancienne présidente de Microsoft France, Corine de Bilbao contacte Olivier Becht dans la recherche d'un terrain français pour le programme.",
+    "source_id": "pl_src_r31",
+    "source_ids": [
+      "pl_src_r31"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0024",
-    "type": "reported_verbatim_or_summary",
-    "text": "« Un centre de données Microsoft chez nous, c’est une véritable chance, une attractivité incroyable pour la région. »",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_024",
+    "type": "documented_summary",
+    "text": "Gilbert Stimpflin propose le terrain de Petit-Landau au nom d'Euro Rhein Ports et défend les retombées du campus pour l'attractivité locale.",
+    "source_id": "pl_src_r31",
+    "source_ids": [
+      "pl_src_r31"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   },
   {
-    "id": "evidence_0025",
-    "type": "reported_verbatim_or_summary",
-    "text": "Le site proposé par son PDG Gilbert Stimpflin a été retenu par Microsoft.",
-    "source_id": null,
-    "source_status": "to_qualify",
-    "published_at": null,
-    "accessed_at": null,
-    "verification_note": "Texte issu de la fiche source. Le statut citation littérale ou synthèse ne peut pas être confirmé."
+    "id": "pl_proof_025",
+    "type": "documented_summary",
+    "text": "Euro Rhein Ports est cité comme propriétaire ou acteur foncier de l'emprise retenue par Microsoft pour le campus.",
+    "source_id": "pl_src_r31",
+    "source_ids": [
+      "pl_src_r31"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_026",
+    "type": "documented_summary",
+    "text": "La société Microsoft 1985 France Sàrl est pétitionnaire de l'autorisation environnementale et des permis de construire de Petit-Landau et Hombourg.",
+    "source_id": "pl_src_enquete",
+    "source_ids": [
+      "pl_src_enquete"
+    ],
+    "source_status": "qualified",
+    "verification": "public_page_verified",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_027",
+    "type": "documented_summary",
+    "text": "M2A rend un avis favorable en juin puis vote la déclaration d'intérêt général et la mise en compatibilité du PLU le 12 octobre 2026.",
+    "source_id": "pl_src_r09",
+    "source_ids": [
+      "pl_src_r09"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_028",
+    "type": "documented_summary",
+    "text": "Le conseil municipal de Petit-Landau vote le 7 juillet par quatorze voix pour et une abstention.",
+    "source_id": "pl_src_r35",
+    "source_ids": [
+      "pl_src_r35"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_029",
+    "type": "documented_summary",
+    "text": "Chalampé émet un avis favorable le 2 juillet et examine une régie locale de chaleur.",
+    "source_id": "pl_src_r34",
+    "source_ids": [
+      "pl_src_r34"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_030",
+    "type": "documented_summary",
+    "text": "Le conseil de Niffer rend un avis favorable à l'unanimité, selon la presse.",
+    "source_id": "pl_src_r35",
+    "source_ids": [
+      "pl_src_r35"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_031",
+    "type": "documented_summary",
+    "text": "Le conseil d'Ottmarsheim rend un avis favorable par neuf voix pour, deux contre et huit abstentions.",
+    "source_id": "pl_src_r35",
+    "source_ids": [
+      "pl_src_r35"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_032",
+    "type": "documented_summary",
+    "text": "Le maire de Chalampé défend l'intérêt potentiel de valoriser la chaleur pour les industriels rhénans; sa faisabilité n'est pas démontrée.",
+    "source_id": "pl_src_r34",
+    "source_ids": [
+      "pl_src_r34"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_033",
+    "type": "documented_summary",
+    "text": "Vice-président de M2A chargé de l'urbanisme, Frédéric Guthmann défend la procédure de déclaration de projet du 12 octobre.",
+    "source_id": "pl_src_r07",
+    "source_ids": [
+      "pl_src_r07"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_034",
+    "type": "documented_summary",
+    "text": "Thiébaut Weber vote contre la déclaration de projet de M2A du 12 octobre et critique la faiblesse du débat énergétique et de souveraineté.",
+    "source_id": "pl_src_r07",
+    "source_ids": [
+      "pl_src_r07"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_035",
+    "type": "documented_summary",
+    "text": "Patricia Legouge vote contre la déclaration M2A du 12 octobre, interrogeant les enjeux d'IA au-delà de la seule urbanisation.",
+    "source_id": "pl_src_r07",
+    "source_ids": [
+      "pl_src_r07"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_036",
+    "type": "documented_summary",
+    "text": "Annouar Sassi vote contre la déclaration M2A et demande davantage de temps de réflexion sur le projet.",
+    "source_id": "pl_src_r07",
+    "source_ids": [
+      "pl_src_r07"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_037",
+    "type": "documented_summary",
+    "text": "Pierre Salze se prononce finalement favorablement le 12 octobre tout en soulevant des réserves sur le bilan NOx des groupes de secours.",
+    "source_id": "pl_src_r07",
+    "source_ids": [
+      "pl_src_r07"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_038",
+    "type": "documented_summary",
+    "text": "Présidente d'Alsace Nature, Michèle Grosjean appelle à s'opposer au projet, invoquant l'énergie, le foncier, le bruit et la chaleur potentiels.",
+    "source_id": "pl_src_r48",
+    "source_ids": [
+      "pl_src_r48"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_039",
+    "type": "documented_summary",
+    "text": "Présidente d'Alter Alsace Énergies, Annie de Larochelambert critique la dépendance envers le groupe américain et ses besoins électriques.",
+    "source_id": "pl_src_r49",
+    "source_ids": [
+      "pl_src_r49"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_040",
+    "type": "documented_summary",
+    "text": "Joseph Baumann, d'Alsace Nature, conteste la consommation de terres, la dissipation de chaleur et les lacunes du débat public.",
+    "source_id": "pl_src_r45",
+    "source_ids": [
+      "pl_src_r45"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_041",
+    "type": "documented_summary",
+    "text": "Stop Fessenheim figure parmi les organisations appelant à la mobilisation contre Petit-Landau.",
+    "source_id": "pl_src_r40",
+    "source_ids": [
+      "pl_src_r40"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_042",
+    "type": "documented_summary",
+    "text": "Des représentants d'Attac 68 sont cités dans la manifestation du 22 juin contre Microsoft, sans preuve de recours propre.",
+    "source_id": "pl_src_r44",
+    "source_ids": [
+      "pl_src_r44"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_043",
+    "type": "documented_summary",
+    "text": "Extinction Rebellion Alsace figure parmi les organisations citées dans l'appel à manifester contre Microsoft.",
+    "source_id": "pl_src_r40",
+    "source_ids": [
+      "pl_src_r40"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_044",
+    "type": "documented_summary",
+    "text": "Les Soulèvements de la Terre sont mentionnés parmi les organisations rejoignant la mobilisation locale contre le site.",
+    "source_id": "pl_src_r40",
+    "source_ids": [
+      "pl_src_r40"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_045",
+    "type": "documented_summary",
+    "text": "Eau en danger est nommé parmi les collectifs participant à l'appel de mobilisation contre le projet.",
+    "source_id": "pl_src_r40",
+    "source_ids": [
+      "pl_src_r40"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_046",
+    "type": "documented_summary",
+    "text": "Des représentants de Climat 3F participent à la manifestation du 22 juin, sans recours propre identifié dans la source.",
+    "source_id": "pl_src_r44",
+    "source_ids": [
+      "pl_src_r44"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_047",
+    "type": "documented_summary",
+    "text": "Les Amis des Sheds sont représentés parmi les manifestants en juin; aucune prise de position officielle autonome de la structure n'est reproduite.",
+    "source_id": "pl_src_r44",
+    "source_ids": [
+      "pl_src_r44"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_048",
+    "type": "documented_summary",
+    "text": "Thomas Giroux, habitant de Petit-Landau interrogé par la RTS, affiche son opposition et explique participer à une pétition, inquiet des nuisances et des terres agricoles.",
+    "source_id": "pl_src_r03",
+    "source_ids": [
+      "pl_src_r03"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_049",
+    "type": "documented_summary",
+    "text": "Mathieu Herrmann, agriculteur biologique sur les parcelles concernées, exprime une inquiétude sur la chaleur et l'agriculture, sans rejeter par principe l'infrastructure numérique.",
+    "source_id": "pl_src_r03",
+    "source_ids": [
+      "pl_src_r03"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_050",
+    "type": "documented_summary",
+    "text": "Danièle, manifestante de Baldersheim citée sous son prénom, critique le défaut de prise en compte des avis citoyens.",
+    "source_id": "pl_src_r13",
+    "source_ids": [
+      "pl_src_r13"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_051",
+    "type": "documented_summary",
+    "text": "Nicolas, manifestant de Rixheim cité sous son prénom, juge l'enquête publique insuffisante et non prise en compte.",
+    "source_id": "pl_src_r13",
+    "source_ids": [
+      "pl_src_r13"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_052",
+    "type": "documented_summary",
+    "text": "Kevin, manifestant d'Ottmarsheim cité sous son prénom, redoute les effets écologiques du centre.",
+    "source_id": "pl_src_r13",
+    "source_ids": [
+      "pl_src_r13"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_053",
+    "type": "documented_summary",
+    "text": "Cyril, manifestant de Mulhouse cité sous son prénom, critique l'ampleur de l'électricité annuelle envisagée.",
+    "source_id": "pl_src_r13",
+    "source_ids": [
+      "pl_src_r13"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_054",
+    "type": "documented_summary",
+    "text": "Emmanuel Aubry est le préfet qui signe l'arrêté d'autorisation environnementale du 15 octobre; un acte de sa compétence n'établit pas une adhésion politique.",
+    "source_id": "pl_src_r06",
+    "source_ids": [
+      "pl_src_r06"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_055",
+    "type": "documented_summary",
+    "text": "Pierre Herzog, commissaire enquêteur, rend trois avis favorables le 24 août avec réserve acoustique et recommandations; cet avis réglementaire n'est pas militant.",
+    "source_id": "pl_src_r32",
+    "source_ids": [
+      "pl_src_r32"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_056",
+    "type": "documented_summary",
+    "text": "Le CODERST émet un avis favorable le 6 octobre lors de l'instruction environnementale; il s'agit d'un avis consultatif.",
+    "source_id": "pl_src_r09",
+    "source_ids": [
+      "pl_src_r09"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_057",
+    "type": "documented_summary",
+    "text": "La CDPENAF rend un avis défavorable sur la modification du PLU selon la presse; cet avis technique ne vaut pas un recours judiciaire.",
+    "source_id": "pl_src_r29",
+    "source_ids": [
+      "pl_src_r29"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_058",
+    "type": "documented_summary",
+    "text": "Le maire de Bad Bellingen évoque une passerelle transfrontalière pouvant supporter une future conduite de chaleur Microsoft; aucun financement ou contrat n'est confirmé.",
+    "source_id": "pl_src_r47",
+    "source_ids": [
+      "pl_src_r47"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_059",
+    "type": "documented_summary",
+    "text": "Des élus Mulhouse en commun sont recensés parmi les voix contre la déclaration de projet du 12 octobre.",
+    "source_id": "pl_src_r07",
+    "source_ids": [
+      "pl_src_r07"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_060",
+    "type": "documented_summary",
+    "text": "Trois élus Nous sommes Mulhouse votent contre la déclaration de projet du 12 octobre, selon la presse.",
+    "source_id": "pl_src_r07",
+    "source_ids": [
+      "pl_src_r07"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_061",
+    "type": "documented_summary",
+    "text": "Le 27 octobre 2026, les maires de Petit-Landau et Hombourg ont signé les permis de construire du centre Microsoft, selon DNA du 4 novembre. L'exploitation n'a pas commencé.",
+    "source_id": "pl_src_permis",
+    "source_ids": [
+      "pl_src_permis"
+    ],
+    "source_status": "qualified",
+    "verification": "public_page_verified",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_062",
+    "type": "documented_summary",
+    "text": "Le préfet du Haut-Rhin a accordé le 15 octobre 2026 l'autorisation environnementale d'exploiter le futur data center, avec prescriptions de suivi du bruit et des émissions.",
+    "source_id": "pl_src_r06",
+    "source_ids": [
+      "pl_src_r06"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_063",
+    "type": "documented_summary",
+    "text": "Le 12 octobre 2026, M2A a déclaré l'intérêt général du data center et adopté la déclaration de projet emportant mise en compatibilité du PLU de Petit-Landau.",
+    "source_id": "pl_src_r09",
+    "source_ids": [
+      "pl_src_r09"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_064",
+    "type": "documented_summary",
+    "text": "Après l'enquête unique du 1er juin au 3 juillet, environ 80 % de contributions défavorables sont recensées; Pierre Herzog rend trois avis favorables le 24 août avec réserve sur le bruit.",
+    "source_id": "pl_src_r32",
+    "source_ids": [
+      "pl_src_r32"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_065",
+    "type": "documented_summary",
+    "text": "La MRAe estime à plus de 1 500 GWh/an la consommation électrique projetée, avec 111 groupes électrogènes de secours. Il ne s'agit pas de valeurs observées en exploitation.",
+    "source_id": "pl_src_r53",
+    "source_ids": [
+      "pl_src_r53"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_066",
+    "type": "documented_summary",
+    "text": "L'avis d'enquête cité par l'AFP présente une consommation future d'environ 5 000 m³/an depuis le réseau potable, sans pompage direct prévu dans le Rhin ou la nappe.",
+    "source_id": "pl_src_r29",
+    "source_ids": [
+      "pl_src_r29"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_067",
+    "type": "documented_summary",
+    "text": "Le 3 novembre 2026, le conseil de Petit-Landau évoque un comité consultatif sur la passerelle avec Bad Bellingen, pouvant à terme transporter de la chaleur du centre; aucun contrat de valorisation n'est établi.",
+    "source_id": "pl_src_r02",
+    "source_ids": [
+      "pl_src_r02"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_068",
+    "type": "documented_summary",
+    "text": "M2A attend une étude technico-économique de valorisation de chaleur avant le 1er octobre 2027 et réclame des suivis acoustiques et atmosphériques; réalisations non démontrées.",
+    "source_id": "pl_src_r09",
+    "source_ids": [
+      "pl_src_r09"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_069",
+    "type": "documented_summary",
+    "text": "Selon le dossier rapporté par le commissaire, les emplois projetés seraient de l'ordre de 197 à 301 ETP, à distinguer des environ 200 emplois directs communiqués par Microsoft.",
+    "source_id": "pl_src_r32",
+    "source_ids": [
+      "pl_src_r32"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_070",
+    "type": "documented_summary",
+    "text": "L'enquête unique couvre une emprise d'environ 36 ha et le raccordement par RTE de deux liaisons 225 kV; surface totale et surface imperméabilisée sont distinctes.",
+    "source_id": "pl_src_enquete",
+    "source_ids": [
+      "pl_src_enquete"
+    ],
+    "source_status": "qualified",
+    "verification": "public_page_verified",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_071",
+    "type": "documented_summary",
+    "text": "Les calendriers rapportés divergent, évoquant un chantier à partir de fin 2027 ou de 2029 et un fonctionnement envisagé vers 2029–2030; aucune mise en service effective n'est documentée.",
+    "source_id": "pl_src_r06",
+    "source_ids": [
+      "pl_src_r06"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_072",
+    "type": "documented_summary",
+    "text": "La MRAe Grand Est, dans son avis de mars 2026, appelle à compléter l'analyse des émissions atmosphériques, des sols, de l'énergie et des impacts du campus.",
+    "source_id": "pl_src_mrae",
+    "source_ids": [
+      "pl_src_mrae"
+    ],
+    "source_status": "qualified",
+    "verification": "public_page_verified",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_073",
+    "type": "documented_summary",
+    "text": "Le conseil M2A du 12 octobre approuve la déclaration malgré neuf votes contre et deux abstentions rapportés par Alterpresse; plusieurs élus critiques sont nommément identifiés.",
+    "source_id": "pl_src_r07",
+    "source_ids": [
+      "pl_src_r07"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_074",
+    "type": "documented_summary",
+    "text": "M2A engage la procédure DPMeC du PLU de Petit-Landau le 9 décembre 2024.",
+    "source_id": "pl_src_plu",
+    "source_ids": [
+      "pl_src_plu"
+    ],
+    "source_status": "qualified",
+    "verification": "public_page_verified",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_075",
+    "type": "documented_summary",
+    "text": "L'enquête publique se déroule du 1er juin au 3 juillet 2026, selon le registre officiel.",
+    "source_id": "pl_src_enquete",
+    "source_ids": [
+      "pl_src_enquete"
+    ],
+    "source_status": "qualified",
+    "verification": "public_page_verified",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_076",
+    "type": "documented_summary",
+    "text": "France 3 rapporte l'avis favorable M2A du 22 juin et 9 votes contre, 7 abstentions.",
+    "source_id": "pl_src_r42",
+    "source_ids": [
+      "pl_src_r42"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_077",
+    "type": "documented_summary",
+    "text": "Une cinquantaine de manifestants se rassemblent devant la sous-préfecture le 28 août selon la presse.",
+    "source_id": "pl_src_r24",
+    "source_ids": [
+      "pl_src_r24"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
+  },
+  {
+    "id": "pl_proof_078",
+    "type": "documented_summary",
+    "text": "Journée de mobilisation du 19 septembre organisée à Kingersheim.",
+    "source_id": "pl_src_r21",
+    "source_ids": [
+      "pl_src_r21"
+    ],
+    "source_status": "qualified",
+    "verification": "article_text_from_supplied_workbook_editor_url",
+    "recorded_at": "2026-11-07"
   }
 ]

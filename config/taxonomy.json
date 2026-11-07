@@ -13,15 +13,15 @@
       "color": "#ef4444"
     },
     "elus-opp": {
-      "label": "Élus opposés ou critiques",
+      "label": "Élus et responsables critiques",
       "color": "#8b5cf6"
     },
     "elus-fav": {
-      "label": "Élus favorables ou prudents",
+      "label": "Élus et collectivités",
       "color": "#2563eb"
     },
     "orgs": {
-      "label": "Organisations et collectifs",
+      "label": "Associations, collectifs et institutions",
       "color": "#10b981"
     },
     "porteurs": {
@@ -31,6 +31,10 @@
     "energie": {
       "label": "Énergie, raccordement et foncier",
       "color": "#7c3aed"
+    },
+    "context": {
+      "label": "Contexte transfrontalier",
+      "color": "#0284c7"
     }
   },
   "stances": {
@@ -47,8 +51,12 @@
       "color": "#22c55e"
     },
     "neutral": {
-      "label": "Prudent ou ambigu",
+      "label": "Réserves / position nuancée",
       "color": "#f59e0b"
+    },
+    "unknown": {
+      "label": "Position non établie",
+      "color": "#94a3b8"
     }
   },
   "certainty_levels": {
@@ -64,116 +72,52 @@
   },
   "relation_types": {
     "opposes": {
-      "label": "S’oppose à",
+      "label": "S'oppose à",
       "directed": true
     },
     "supports": {
-      "label": "Soutien politique",
-      "directed": false
-    },
-    "position_on": {
-      "label": "Position prudente",
+      "label": "Soutient ou porte",
       "directed": true
     },
-    "member_of": {
-      "label": "Membre de",
+    "position_on": {
+      "label": "Exprime des réserves sur",
+      "directed": true
+    },
+    "involved": {
+      "label": "Rôle dans le dossier",
+      "directed": true
+    },
+    "reviewed_by": {
+      "label": "Avis administratif ou technique",
+      "directed": true
+    },
+    "connected_by": {
+      "label": "Raccordement confié à",
+      "directed": true
+    },
+    "permitted_by": {
+      "label": "Autorisation délivrée par",
       "directed": true
     },
     "represents": {
-      "label": "Représentation ou rattachement",
-      "directed": false
-    },
-    "coordinates_with": {
-      "label": "Coordonne avec",
-      "directed": false
-    },
-    "works_for": {
-      "label": "Travaille pour",
+      "label": "Représente",
       "directed": true
     },
-    "contracts_with": {
-      "label": "Relation contractuelle",
-      "directed": true
-    },
-    "participates_in": {
-      "label": "Participe à",
-      "directed": true
-    },
-    "funded_by": {
-      "label": "Financé par",
-      "directed": true
-    },
-    "partnered_with": {
-      "label": "Partenariat",
-      "directed": false
-    },
-    "connected_by": {
-      "label": "Raccordé par",
-      "directed": true
-    },
-    "authorized_by": {
-      "label": "Autorisé par",
+    "joined": {
+      "label": "Participe à la mobilisation",
       "directed": true
     },
     "associated_with": {
-      "label": "Lien relationnel ou thématique déclaré dans le corpus",
+      "label": "Lien documentaire établi",
       "directed": false
     },
-    "covered_by": {
-      "label": "Couverture médiatique",
+    "owned_by": {
+      "label": "Acteur foncier",
       "directed": true
     },
-    "targets_market": {
-      "label": "Cible stratégique identifiée",
+    "hosted_by": {
+      "label": "Réunion accueillie par",
       "directed": true
-    },
-    "critical_analysis": {
-      "label": "Critique exprimée dans le corpus",
-      "directed": false
-    },
-    "regional_competition": {
-      "label": "Contexte concurrentiel régional",
-      "directed": false
-    },
-    "alias_of": {
-      "label": "Précision de dénomination dans le corpus",
-      "directed": false
-    },
-    "context_mention": {
-      "label": "Rattachement contextuel cité dans une fiche (non contractuel)",
-      "directed": false
-    },
-    "legal_support": {
-      "label": "Soutien juridique cité",
-      "directed": false
-    },
-    "legal_challenge": {
-      "label": "Recours ou opposition juridique citée",
-      "directed": false
-    },
-    "industrial_development": {
-      "label": "Porteur industriel déclaré",
-      "directed": false
-    },
-    "electricity_connection": {
-      "label": "Raccordement électrique",
-      "directed": false
-    },
-    "land_transaction": {
-      "label": "Relation foncière déclarée",
-      "directed": false
-    },
-    "political_support": {
-      "label": "Initiative politique",
-      "directed": false
-    },
-    "environmental_review": {
-      "label": "Instruction et réserves environnementales",
-      "directed": false
-    },
-    "public_debate": {
-      "label": "Participation au débat public",
-      "directed": false
     }
   }
 }
